@@ -23,7 +23,7 @@ My research interest includes Diffusion models, Generative AI, Vison-Language mo
 
 
 # 🔥 News
-*The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TNNLS**!    -*2024.9.24*
+- The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TNNLS**!    -*2024.9.24*
 
 # 📝 Publications 
 DB
