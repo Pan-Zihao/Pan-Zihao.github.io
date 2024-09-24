@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student at [the School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. I am interning at [Inpluslab](https://inpluslab.com/) TAI, Sun Yat-sen University, focusing on Adversarial Attack for Generative Models, advised by [Weibin Wu](https://sse.sysu.edu.cn/teacher/249). At the same time, I am also interning at [Maple Lab](http://maple-lab.net), Westlake University, focusing on video generation models, advised by [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=en) (IEEE Fellow). I have interned at [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, advised by [Yan Wang](https://yanwang202199.github.io/).
+I am a third-year undergraduate student at [the School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. I am interning at [Inpluslab](https://inpluslab.com/) TAI, Sun Yat-sen University, focusing on **Adversarial Attack for Generative Models**, advised by [Weibin Wu](https://sse.sysu.edu.cn/teacher/249). At the same time, I am also interning at [Maple Lab](http://maple-lab.net), Westlake University, focusing on **video generation models**, advised by [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=en) (IEEE Fellow). I have interned at [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, focusing on **Image and video editing based on Diffusion**, advised by [Yan Wang](https://yanwang202199.github.io/).
 
 My research interest includes **Diffusion models, Generative AI, Vison-Language models and Adversarial Attack**. 
 
