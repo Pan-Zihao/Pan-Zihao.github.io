@@ -43,7 +43,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 # 📖 Educations
 - *2019.06 - now*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
 
-# 💬 Invited Talks
+# 📃 Projects
 
 # 💻 Internships
 - *2024.07 - now*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
