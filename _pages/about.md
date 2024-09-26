@@ -44,19 +44,27 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 - *2019.06 - now*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
 
 # 📃 Projects
-- **SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**: We propose a novel attack framework called Semantic Consistent Unrestricted Adversarial Attack (SCA) via Semantic Fixation Inversion and Semantically Guided Perturbation. The core idea of SCA is to enhance semantic control throughout the entire generation process of unrestricted adversarial examples. We initially utilize an effective inversion method and a powerful MLLM to extract rich semantic priors from a clean image. Subsequently, we optimize the adversarial objective within the latent space under the guidance of these priors. Experiments demonstrate that the adversarial examples exhibit a high degree of semantic consistency compared to existing methods. Furthermore, our method is highly efficient. Consequently, we introduce Semantic Consistent Adversarial Examples (SCAE). Our work can shed light on further understanding the vulnerabilities of DNNs as well as novel defense approaches.
-  
-<p align = "center">    
-<img  src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png" width="400" />
-</p>
-  
-  2024.9.26: Our work will be submitted to **IEEE TNNLS**, and the paper will be uploaded to arxiv in the near future. Welcome to follow!🎉    
+**SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**: We propose a novel attack framework called Semantic Consistent Unrestricted Adversarial Attack (SCA) via Semantic Fixation Inversion and Semantically Guided Perturbation. The core idea of SCA is to enhance semantic control throughout the entire generation process of unrestricted adversarial examples. We initially utilize an effective inversion method and a powerful MLLM to extract rich semantic priors from a clean image. Subsequently, we optimize the adversarial objective within the latent space under the guidance of these priors. Experiments demonstrate that the adversarial examples exhibit a high degree of semantic consistency compared to existing methods. Furthermore, our method is highly efficient. Consequently, we introduce Semantic Consistent Adversarial Examples (SCAE). Our work can shed light on further understanding the vulnerabilities of DNNs as well as novel defense approaches.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='SCA_pipeline.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
+
+**Zihao Pan**, *TBD*
+
+</strong>
+- We propose a novel attack framework called Semantic Consistent Unrestricted Adversarial Attack (SCA) via Semantic Fixation Inversion and Semantically Guided Perturbation. The core idea of SCA is to enhance semantic control throughout the entire generation process of unrestricted adversarial examples. We initially utilize an effective inversion method and a powerful MLLM to extract rich semantic priors from a clean image. Subsequently, we optimize the adversarial objective within the latent space under the guidance of these priors. Experiments demonstrate that the adversarial examples exhibit a high degree of semantic consistency compared to existing methods. Furthermore, our method is highly efficient. Consequently, we introduce Semantic Consistent Adversarial Examples (SCAE). Our work can shed light on further understanding the vulnerabilities of DNNs as well as novel defense approaches.  
+
+2024.9.26: Our work will be submitted to **IEEE TNNLS**, and the paper will be uploaded to arxiv in the near future. Welcome to follow!🎉 
+</div>
+</div>
   
 
-- **On Exploring Adversarial Semantic Space of Large Vision-Language Model**: Large Vision-Language models may have defects in their understanding of certain concepts in the real world, which we can call "Adversarial Semantic Space". In response to the problems of existing methods, we want to propose a method that can search for knowledge gaps in large multimodal models in the semantic space of the real world, that is, to find the "Adversarial Semantic Space".   
+**On Exploring Adversarial Semantic Space of Large Vision-Language Model**: Large Vision-Language models may have defects in their understanding of certain concepts in the real world, which we can call "Adversarial Semantic Space". In response to the problems of existing methods, we want to propose a method that can search for knowledge gaps in large multimodal models in the semantic space of the real world, that is, to find the "Adversarial Semantic Space".   
   2024.9.26: Our work is in progress and we plan to submit it to **CVPR2025**. The paper and all the code will be uploaded after completion, so stay tuned!    
   
-- **MapleVideo**(This is a project I did during my internship at the Maple Lab at Westlake University. For details, please refer to the lab's homepage.)    
+**MapleVideo**(This is a project I did during my internship at the Maple Lab at Westlake University. For details, please refer to the lab's homepage.)    
   2024.9.26: Our work is in progress and we plan to submit it to **CVPR2025**.    
 
 # 💻 Internships
