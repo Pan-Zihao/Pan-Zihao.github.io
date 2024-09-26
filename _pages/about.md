@@ -47,7 +47,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TNNLS</div><img src='SCA_image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack]**()
+**SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
 
 **Zihao Pan**, *TBD*
 
