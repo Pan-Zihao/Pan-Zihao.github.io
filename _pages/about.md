@@ -54,14 +54,14 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 	<img src="SCA_image.png"/>
 </div>
   
-  2024.9.26: Our work will be submitted to IEEE TNNLS, and the paper will be uploaded to arxiv in the near future. Welcome to follow!🎉    
+  2024.9.26: Our work will be submitted to **IEEE TNNLS**, and the paper will be uploaded to arxiv in the near future. Welcome to follow!🎉    
   
 
 - **On Exploring Adversarial Semantic Space of Large Vision-Language Model**: Large Vision-Language models may have defects in their understanding of certain concepts in the real world, which we can call "Adversarial Semantic Space". In response to the problems of existing methods, we want to propose a method that can search for knowledge gaps in large multimodal models in the semantic space of the real world, that is, to find the "Adversarial Semantic Space".   
-  2024.9.26: Our work is in progress and we plan to submit it to CVPR2025. The paper and all the code will be uploaded after completion, so stay tuned!    
+  2024.9.26: Our work is in progress and we plan to submit it to **CVPR2025**. The paper and all the code will be uploaded after completion, so stay tuned!    
   
 - **MapleVideo**(This is a project I did during my internship at the Maple Lab at Westlake University. For details, please refer to the lab's homepage.)    
-  2024.9.26: Our work is in progress and we plan to submit it to CVPR2025.    
+  2024.9.26: Our work is in progress and we plan to submit it to **CVPR2025**.    
 
 # 💻 Internships
 - *2024.07 - now*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
