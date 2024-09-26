@@ -21,7 +21,6 @@ I am a third-year undergraduate student at [the School of Software Engineering](
 
 My research interest includes **Diffusion models, Generative AI, Vison-Language models and Adversarial Attack**. 
 
-
 # 🔥 News
 - I am honored with the **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University!    -*2024.9.25*
 - The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TNNLS**!    -*2024.9.24*
@@ -41,7 +40,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 - 工业与信息化人才专业知识测评证书 数学建模科目（证书编号：GXRCCP018202312179）
 
 # 📖 Educations
-- *2019.06 - now*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
+- *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
 
 # 📃 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TNNLS</div><img src='SCA_image.png' alt="sym" width="100%"></div></div>
