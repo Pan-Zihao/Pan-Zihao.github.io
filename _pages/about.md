@@ -50,9 +50,9 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
     <img src="SCA_pipeline.png">
   </center>   
   
-  <center class ='img'>   
-    <img src="SCA_image.png" width = 60%>
-  </center>  
+ <div align=center>
+	<img src="SCA_image.png"/>
+</div>
   
   2024.9.26: Our work will be submitted to IEEE TNNLS, and the paper will be uploaded to arxiv in the near future. Welcome to follow!🎉    
   
