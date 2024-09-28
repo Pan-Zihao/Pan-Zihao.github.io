@@ -23,7 +23,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 
 # 🔥 News
 - I am honored with the **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University!    -*2024.9.25*
-- The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TNNLS**!    -*2024.9.24*
+- The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TMM**!    -*2024.9.24*
 
 # 📝 Publications 
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
@@ -43,7 +43,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 - *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
 
 # 📃 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TNNLS</div><img src='SCA_image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TMM</div><img src='SCA_image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
@@ -52,7 +52,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 
 We propose a novel attack framework called Semantic Consistent Unrestricted Adversarial Attack (SCA) via Semantic Fixation Inversion and Semantically Guided Perturbation. The core idea of SCA is to enhance semantic control throughout the entire generation process of unrestricted adversarial examples.We initially utilize an effective inversion method and a powerful MLLM to extract rich semantic priors from a clean image. Subsequently, we optimize the adversarial objective within the latent space under the guidance of these priors. Experiments demonstrate that the adversarial examples exhibit a high degree of semantic consistency compared to existing methods. Furthermore, our method is highly efficient. Consequently, we introduce Semantic Consistent Adversarial Examples (SCAE). Our work can shed light on further understanding the vulnerabilities of DNNs as well as novel defense approaches.  
 
-2024.9.26: Our work will be submitted to **IEEE TNNLS**, and the paper will be uploaded to arxiv in the near future. Welcome to follow!🎉
+2024.9.26: Our work will be submitted to **IEEE TMM**, and the paper will be uploaded to arxiv in the near future. Welcome to follow!🎉
 </div>
 </div>
 
