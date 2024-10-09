@@ -27,7 +27,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 - The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TMM**!    -*2024.9.24*
 
 # 📝 Publications 
-- **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, *Zihao Pan, Weibin WU, Yuhang Cao, Zibin Zheng IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Multimedia(TMM)** and is under review.)
+- **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Multimedia(TMM)** and is under review.)
 - **On Exploring Adversarial Semantic Space of Large Vision-Language Model** (This paper is prepared to be submitted to **CVPR2025**.）
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
 
