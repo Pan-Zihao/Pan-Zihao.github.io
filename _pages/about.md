@@ -27,7 +27,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 - The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TMM**!    -*2024.9.24*
 
 # 📝 Publications 
-- **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Multimedia(TMM)** and is under review.)
+- **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Information Forensics ans Security(TIFS)** and is under review.)
 - **On Exploring Adversarial Semantic Space of Large Vision-Language Model** (This paper is prepared to be submitted to **CVPR2025**.）
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
 
@@ -47,7 +47,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 - *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
 
 # 📃 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TMM</div><img src='SCA_image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIFS</div><img src='SCA_image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
@@ -56,7 +56,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 
 We propose a novel attack framework called Semantic Consistent Unrestricted Adversarial Attack (SCA) via Semantic Fixation Inversion and Semantically Guided Perturbation. The core idea of SCA is to enhance semantic control throughout the entire generation process of unrestricted adversarial examples.We initially utilize an effective inversion method and a powerful MLLM to extract rich semantic priors from a clean image. Subsequently, we optimize the adversarial objective within the latent space under the guidance of these priors. Experiments demonstrate that the adversarial examples exhibit a high degree of semantic consistency compared to existing methods. Furthermore, our method is highly efficient. Consequently, we introduce Semantic Consistent Adversarial Examples (SCAE). Our work can shed light on further understanding the vulnerabilities of DNNs as well as novel defense approaches.  
 
-2024.10.4: Our work is submitted to **IEEE TMM**, and the paper has been uploaded to [arxiv](https://arxiv.org/abs/2410.02240). Welcome to follow!🎉
+2024.10.4: Our work is submitted to **IEEE TIFS**, and the paper has been uploaded to [arxiv](https://arxiv.org/abs/2410.02240). Welcome to follow!🎉
 </div>
 </div>
 
