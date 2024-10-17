@@ -47,7 +47,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 - *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
 
 # 📃 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIFS</div><img src='SCA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIFS</div><img src='[SCA.png](https://s2.loli.net/2024/10/18/43ekjHYtF8q7KaZ.png)' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
@@ -60,7 +60,7 @@ Deep neural network based systems deployed in sensitive environments are vulnera
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to submit to CVPR2025</div><img src='pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to submit to CVPR2025</div><img src='[pipeline.png](https://s2.loli.net/2024/10/18/FlSiIL1K4mVdy3T.png)' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **On Exploring Adversarial Semantic Space of Large Vision-Language Model**
