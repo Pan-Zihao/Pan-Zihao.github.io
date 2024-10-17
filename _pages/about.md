@@ -47,6 +47,8 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 - *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
 
 # 📃 Projects
+<a href="https://sm.ms/image/43ekjHYtF8q7KaZ" target="_blank"><img src="https://s2.loli.net/2024/10/18/43ekjHYtF8q7KaZ.png" ></a>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIFS</div><img src='https://s2.loli.net/2024/10/18/43ekjHYtF8q7KaZ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
