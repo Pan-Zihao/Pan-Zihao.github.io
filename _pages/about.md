@@ -60,7 +60,14 @@ We propose a novel attack framework called Semantic Consistent Unrestricted Adve
 </div>
 </div>
 
-- **On Exploring Adversarial Semantic Space of Large Vision-Language Model**: Large Vision-Language models may have defects in their understanding of certain concepts in the real world, which we can call "Adversarial Semantic Space". In response to the problems of existing methods, we want to propose a method that can search for knowledge gaps in large multimodal models in the semantic space of the real world, that is, to find the "Adversarial Semantic Space".   
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to submit to CVPR2025</div><img src='SCA_image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**On Exploring Adversarial Semantic Space of Large Vision-Language Model**
+
+***Zihao Pan**, Weibin WU, Yu Tong, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow*
+
+Large Vision-Language Models (LVLMs) have demonstrated exceptional capabilities in a wide range of multimodal understanding and reasoning tasks. Compared to traditional language models, LVLMs are more susceptible to adversarial attacks due to the complexity of cross-modal tasks. Recent studies have implemented threats by meticulously designing perturbations in both language and visual modalities. Nevertheless, these methods generally rely on prior knowledge of the target model or depend on proxy models, limiting their efficacy in practical scenarios. Moreover, conventional noise-based approaches struggle to elucidate the patterns of model failures. To address these issues, we propose a semantic-based adversarial attack method for practical scenarios. In this setting, the attacker can only implement the attack through model queries. Our approach leverages a novel automated framework based on Large Language Models (LLMs) to search for adversarial visual representations across an extensive semantic space. Subsequently, text-to-image models can transform these representations into highly aligned images, serving as adversarial visual inputs for LVLMs. As these adversarial inputs are embodied in natural language, the interpretability of the attacks is significantly enhanced. Extensive experiments have demonstrated the effectiveness and versatility of our method, particularly its adaptability to various downstream tasks and LVLMs without task-specific designs. This research contributes to the und  
      2024.9.26: Our work is in progress and we plan to submit it to **CVPR2025**. The paper and all the code will be uploaded after completion, so stay tuned!    
   
 - **MapleVideo**(This is a project I did during my internship at the Maple Lab at Westlake University. For details, please refer to the lab's homepage.)    
