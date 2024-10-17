@@ -55,6 +55,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 ***Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng IEEE Fellow*
 
 In this study, we propose a novel framework called Semantic-Consistent Unrestricted Adversarial Attacks (SCA), which employs an inversion method to extract edit-friendly noise maps and utilizes Multimodal Large Language Model (MLLM) to provide semantic guidance throughout the process. Under the condition of rich semantic information provided by MLLM, we perform the DDPM denoising process of each step using a series of edit-friendly noise maps, and leverage DPM Solver++ to accelerate this process, enabling efficient sampling with semantic consistency. Compared to existing methods, our framework enables the efficient generation of adversarial examples that exhibit minimal discernible semantic changes. Consequently, we for the first time introduce Semantic-Consistent Adversarial Examples (SCAE). Extensive experiments and visualizations have demonstrated the high efficiency of SCA, particularly in being on average 12 times faster than the state-of-the-art attacks.  
+
 2024.10.4: Our work is submitted to **IEEE TIFS**, and the paper has been uploaded to [arxiv](https://arxiv.org/abs/2410.02240). Welcome to follow!🎉
 </div>
 </div>
