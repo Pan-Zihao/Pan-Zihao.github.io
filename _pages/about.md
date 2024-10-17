@@ -24,7 +24,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 # 🔥 News
 - I won the first prize 🥇 in the 2024 Guangdong University Students Mathematical Modeling Competition and the Guangdong Division of the National University Students Mathematical Modeling Competition!    -*2024.10.2*
 - I am honored with the **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University!    -*2024.9.25*
-- The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TMM**!    -*2024.9.24*
+- The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TIFS**!    -*2024.9.24*
 
 # 📝 Publications 
 - **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Information Forensics ans Security(TIFS)** and is under review.)
