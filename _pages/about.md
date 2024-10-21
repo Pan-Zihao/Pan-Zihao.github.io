@@ -60,7 +60,7 @@ In this study, we propose a novel framework called Semantic-Consistent Unrestric
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/10/18/FlSiIL1K4mVdy3T.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/10/22/bQ4yMzRCiJaY1PV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **On Exploring Adversarial Semantic Space of Large Vision-Language Model**
