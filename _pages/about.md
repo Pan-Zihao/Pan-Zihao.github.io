@@ -28,7 +28,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 
 # 📝 Publications 
 - **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Information Forensics ans Security(TIFS)** and is under review.)
-- **On Exploring Adversarial Semantic Space of Large Vision-Language Model** (This paper is prepared to be submitted to **CVPR2025**.）
+- **On Exploring Adversarial Semantic Space of Large Vision-Language Model** (This paper is prepared to be submitted.）
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
 
 # 🎖 Honors and Awards
@@ -60,7 +60,7 @@ In this study, we propose a novel framework called Semantic-Consistent Unrestric
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to submit to CVPR2025</div><img src='https://s2.loli.net/2024/10/18/FlSiIL1K4mVdy3T.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/10/18/FlSiIL1K4mVdy3T.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **On Exploring Adversarial Semantic Space of Large Vision-Language Model**
@@ -69,12 +69,14 @@ In this study, we propose a novel framework called Semantic-Consistent Unrestric
 
 We propose a semantic-based adversarial attack method for practical scenarios. In this setting, the attacker can only implement the attack through model queries. Our approach leverages a novel automated framework based on Large Language Models (LLMs) to search for adversarial visual representations across an extensive semantic space. Subsequently, text-to-image models can transform these representations into highly aligned images, serving as adversarial visual inputs for LVLMs. As these adversarial inputs are embodied in natural language, the interpretability of the attacks is significantly enhanced. Extensive experiments have demonstrated the effectiveness and versatility of our method, particularly its adaptability to various downstream tasks and LVLMs without task-specific designs. This research contributes to the undstanding of LVLM vulnerabilities and paves the way for more robust multimodal AI systems.
 
-2024.9.26: Our work is in progress and we plan to submit it to **CVPR2025**. The paper and all the code will be uploaded after completion, so stay tuned!    
+2024.9.26: Our work is in progress. The paper and all the code will be uploaded after completion, so stay tuned!    
 </div>
 </div>
   
-- **MapleVideo**(This is a project I did during my internship at the Maple Lab at Westlake University. For details, please refer to the lab's homepage.)    
-     2024.9.26: Our work is in progress and we plan to submit it to **CVPR2025**.    
+- **Less is more: Rethink Transformer Information Bottleneck for High Quality Visual Generation**(This is a project I did during my internship at the Maple Lab at Westlake University. For details, please refer to the lab's homepage.)
+
+
+     2024.9.26: Our work is in progress.    
 
 # 💻 Internships
 - *2024.07 - now*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
