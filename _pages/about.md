@@ -50,13 +50,10 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIFS</div><img src='https://s2.loli.net/2024/10/18/43ekjHYtF8q7KaZ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
+**[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**
 
 ***Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng IEEE Fellow*
 
-In this study, we propose a novel framework called Semantic-Consistent Unrestricted Adversarial Attacks (SCA), which employs an inversion method to extract edit-friendly noise maps and utilizes Multimodal Large Language Model (MLLM) to provide semantic guidance throughout the process. Under the condition of rich semantic information provided by MLLM, we perform the DDPM denoising process of each step using a series of edit-friendly noise maps, and leverage DPM Solver++ to accelerate this process, enabling efficient sampling with semantic consistency. Compared to existing methods, our framework enables the efficient generation of adversarial examples that exhibit minimal discernible semantic changes. Consequently, we for the first time introduce Semantic-Consistent Adversarial Examples (SCAE). Extensive experiments and visualizations have demonstrated the high efficiency of SCA, particularly in being on average 12 times faster than the state-of-the-art attacks.  
-
-2024.10.4: Our work is submitted to **IEEE TIFS**, and the paper has been uploaded to [arxiv](https://arxiv.org/abs/2410.02240). Welcome to follow!🎉
 </div>
 </div>
 
@@ -67,9 +64,7 @@ In this study, we propose a novel framework called Semantic-Consistent Unrestric
 
 ***Zihao Pan**, Weibin WU, Yu Tong, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow*
 
-We propose a semantic-based adversarial attack method for practical scenarios. In this setting, the attacker can only implement the attack through model queries. Our approach leverages a novel automated framework based on Large Language Models (LLMs) to search for adversarial visual representations across an extensive semantic space. Subsequently, text-to-image models can transform these representations into highly aligned images, serving as adversarial visual inputs for LVLMs. As these adversarial inputs are embodied in natural language, the interpretability of the attacks is significantly enhanced. Extensive experiments have demonstrated the effectiveness and versatility of our method, particularly its adaptability to various downstream tasks and LVLMs without task-specific designs. This research contributes to the undstanding of LVLM vulnerabilities and paves the way for more robust multimodal AI systems.
-
-2024.9.26: Our work is in progress. The paper and all the code will be uploaded after completion, so stay tuned!    
+2024.10.23: Our work is in progress. The paper and all the code will be uploaded after completion, so stay tuned!    
 </div>
 </div>
   
@@ -80,6 +75,6 @@ We propose a semantic-based adversarial attack method for practical scenarios. I
 
 # 💻 Internships
 - *2024.07 - now*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
-- *2023.08 - now*, [Inplus Lab]() TAI, Sun Yat-sen University, Zhuhai, China
+- *2023.08 - now*, Inplus Lab TAI, Sun Yat-sen University, Zhuhai, China
 - *2024.06 - 2024.09*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
 - *2024.01 - 2024.03*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
