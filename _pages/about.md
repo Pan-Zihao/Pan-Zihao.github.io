@@ -22,7 +22,7 @@ I am a third-year undergraduate student at [the School of Software Engineering](
 My research interest includes **Diffusion models, Generative AI, Vison-Language models, AI Security and Trustworthy AI**. 
 
 # 🔥 News
-- I won the first prize 🥇 in the 2024 Guangdong University Students Mathematical Modeling Competition and the Guangdong Division of the National University Students Mathematical Modeling Competition!    -*2024.10.2*
+- I won the first prize 🥇 in the 2024 CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling), Guangdong Region!    -*2024.10.2*
 - I am honored with the **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University!    -*2024.9.25*
 - The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TIFS**!    -*2024.9.24*
 
@@ -34,14 +34,11 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 # 🎖 Honors and Awards
 - **CVPR 2024 Workshop** - [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024/overview) - Hexathlon（Kaggle） **Silver medal**🥈(20/930)
 - **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University
-- 2024年广东省大学生数学建模竞赛暨全国大学生数学建模竞赛广东省分赛 一等奖🥇
-- 2023年“高教社杯”全国大学生数学建模竞赛&“深圳杯”数学建模挑战赛 广东赛区三等奖
-- 2023年广东省大学生数学建模竞赛暨全国大学生数学建模竞赛广东省分赛 三等奖
-- 2023年第九届全国大学生统计建模大赛广东赛区本科生组三等奖
-- 2023年APMCM亚太地区大学生数学建模竞赛 Third Prize
-- 2023年第六届“高斯杯”全国大学生数学建模挑战赛 一等奖
-- 计算机软件著作《一种用于人脸识别的图像处理软件V1.0》二作（证书号：软著登字第11658428号）
-- 工业与信息化人才专业知识测评证书 数学建模科目（证书编号：GXRCCP018202312179）
+- First Prize 🥇, 2024 CUMCM (Contemporary Undergraduate Mathematical Contest inModeling), Guangdong Region
+- Third Prize, 2023 CUMCM (Contemporary Undergraduate Mathematical Contest inModeling), Guangdong Region
+- Third Prize, 2023 National University Statistics Modeling Competition, GuangdongRegion
+- Third Prize, 2023 Asia and Paciﬁc Mathematical Contest in Modeling
+- Software Copyright: *Image Processing Software for Facial Recognition V1.0* Second Author, (Registration No: 11658428) 
 
 # 📖 Educations
 - *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
