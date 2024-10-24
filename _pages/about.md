@@ -34,8 +34,8 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 # 🎖 Honors and Awards
 - **CVPR 2024 Workshop** - [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024/overview) - Hexathlon（Kaggle） **Silver medal**🥈(20/930)
 - **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University
-- First Prize 🥇, 2024 CUMCM (Contemporary Undergraduate Mathematical Contest inModeling), Guangdong Region
-- Third Prize, 2023 CUMCM (Contemporary Undergraduate Mathematical Contest inModeling), Guangdong Region
+- First Prize 🥇, 2024 CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling), Guangdong Region
+- Third Prize, 2023 CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling), Guangdong Region
 - Third Prize, 2023 National University Statistics Modeling Competition, GuangdongRegion
 - Third Prize, 2023 Asia and Paciﬁc Mathematical Contest in Modeling
 - Software Copyright: *Image Processing Software for Facial Recognition V1.0* Second Author, (Registration No: 11658428) 
