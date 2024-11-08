@@ -65,17 +65,6 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/11/01/COY2aSu1VsMB8XE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-**Less is more: Rethink Transformer Information Bottleneck for High Quality Visual Generation**
-
-(This is a project I did during my internship at the Maple Lab at Westlake University. For details, please refer to the lab's homepage.)
-
-2024.9.26: Our work is in progress.
-</div>
-</div>
-
 # 💻 Internships
 - *2024.07 - now*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
 - *2023.08 - now*, Inplus Lab TAI, Sun Yat-sen University, Zhuhai, China
