@@ -28,7 +28,7 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 
 # 📝 Publications 
 - **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Information Forensics ans Security(TIFS)** and is under review.)
-- **On Exploring Adversarial Semantic Space of Large Vision-Language Model** (This paper is prepared to be submitted.）
+- **Exploring Adversarial Semantic Space of Large Vision-Language Models with Text-Driven Automatic Mutation Method** (This paper is prepared to be submitted.）
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
 
 # 🎖 Honors and Awards
@@ -57,16 +57,16 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/10/22/bQ4yMzRCiJaY1PV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**On Exploring Adversarial Semantic Space of Large Vision-Language Model**
+**Exploring Adversarial Semantic Space of Large Vision-Language Models with Text-Driven Automatic Mutation Method**
 
-***Zihao Pan**, Weibin WU, Yu Tong, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow*
+***Zihao Pan**, Yu Tong, Weibin WU, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow*
 
 2024.10.23: Our work is in progress. The paper and all the code will be uploaded after completion, so stay tuned!    
 </div>
 </div>
 
 # 💻 Internships
-- *2024.07 - now*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
+- *2024.07 - 2024.11*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
 - *2023.08 - now*, Inplus Lab TAI, Sun Yat-sen University, Zhuhai, China
-- *2024.06 - 2024.09*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
+- *2024.05 - now*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
 - *2024.01 - 2024.03*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
