@@ -48,8 +48,7 @@ My research interests include **Diffusion models, Generative AI, Vison-Language 
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/10/22/bQ4yMzRCiJaY1PV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/11/18/K62cufowMpLJy3H.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Automatic Mutation Method**
