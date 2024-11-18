@@ -23,7 +23,7 @@ My research interests include **Diffusion models, Generative AI, Vison-Language 
 
 # 📝 Publications 
 - **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin Wu, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Information Forensics ans Security(TIFS)** and is under review.)
-- **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Automatic Mutation Method**, **Zihao Pan**, Yu Tong, Weibin Wu, Jingyi Wang, Yitong Qiao, Zibin Zheng *IEEE Fellow* (This paper has been submitted and is under review.）
+- **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**, **Zihao Pan**, Yu Tong, Weibin Wu, Jingyi Wang, Yitong Qiao, Zibin Zheng *IEEE Fellow* (This paper has been submitted and is under review.）
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
 
 # 🎖 Honors and Awards
@@ -51,7 +51,7 @@ My research interests include **Diffusion models, Generative AI, Vison-Language 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/11/18/K62cufowMpLJy3H.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Automatic Mutation Method**
+**Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**
 
 ***Zihao Pan**, Yu Tong, Weibin WU, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow*
  
