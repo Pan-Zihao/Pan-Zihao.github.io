@@ -19,16 +19,11 @@ redirect_from:
 
 I am a third-year undergraduate student at [the School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. I am interning at [Inpluslab](https://inpluslab.com/) TAI, Sun Yat-sen University, focusing on **Adversarial Attack for Generative Models**, advised by [Weibin Wu](https://sse.sysu.edu.cn/teacher/249). At the same time, I am also interning at [Maple Lab](http://maple-lab.net), Westlake University, focusing on **video generation models**, advised by [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=en) (IEEE Fellow). I have interned at [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, focusing on **Image and video editing based on Diffusion**, advised by [Yan Wang](https://yanwang202199.github.io/).
 
-My research interest includes **Diffusion models, Generative AI, Vison-Language models, AI Security and Trustworthy AI**. 
-
-# 🔥 News
-- I won the first prize 🥇 in the 2024 CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling), Guangdong Region!    -*2024.10.2*
-- I am honored with the **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University!    -*2024.9.25*
-- The work on *SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack* has been preliminarily completed and is expected to be submitted to **IEEE TIFS**!    -*2024.9.24*
+My research interests include **Diffusion models, Generative AI, Vison-Language models, AI Security, and Trustworthy AI**. 
 
 # 📝 Publications 
-- **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Information Forensics ans Security(TIFS)** and is under review.)
-- **Exploring Adversarial Semantic Space of Large Vision-Language Models with Text-Driven Automatic Mutation Method** (This paper is prepared to be submitted.）
+- **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin Wu, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Information Forensics ans Security(TIFS)** and is under review.)
+- **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Automatic Mutation Method**, **Zihao Pan**, Yu Tong, Weibin Wu, Jingyi Wang, Yitong Qiao, Zibin Zheng *IEEE Fellow* (This paper has been submitted and is under review.）
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
 
 # 🎖 Honors and Awards
@@ -57,11 +52,10 @@ My research interest includes **Diffusion models, Generative AI, Vison-Language 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/10/22/bQ4yMzRCiJaY1PV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Exploring Adversarial Semantic Space of Large Vision-Language Models with Text-Driven Automatic Mutation Method**
+**Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Automatic Mutation Method**
 
 ***Zihao Pan**, Yu Tong, Weibin WU, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow*
-
-2024.10.23: Our work is in progress. The paper and all the code will be uploaded after completion, so stay tuned!    
+ 
 </div>
 </div>
 
