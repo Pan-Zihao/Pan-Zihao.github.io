@@ -44,7 +44,7 @@ My research interests include **Deep Generative Models, Multimodal Learning, and
 
 **SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
 
-***Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng IEEE Fellow*
+**Zihao Pan**, Weibin WU$^*$, Yuhang Cao, Zibin Zheng IEEE Fellow
 
 arXiv Preprint (Submitted to **IEEE Transactions on Information Forensics and Security(TIFS)**, Under Review)
 
@@ -57,9 +57,13 @@ arXiv Preprint (Submitted to **IEEE Transactions on Information Forensics and Se
 
 **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**
 
-***Zihao Pan**, Yu Tong\\dagger, Weibin WU, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow*
+**Zihao Pan$\dagger$**, Yu Tong$\dagger$, Weibin WU$^*$, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow
 
+($\dagger$ means equal contribution to this work)
 
+Under Review
+
+[PDF] [code]
  
 </div>
 </div>
