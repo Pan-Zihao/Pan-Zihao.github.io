@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student at [the School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. I am interning at [Inpluslab](https://inpluslab.com/) TAI, Sun Yat-sen University, focusing on **Adversarial Attack for Generative Models**, advised by [Weibin Wu](https://sse.sysu.edu.cn/teacher/249). At the same time, I am also interning at [Maple Lab](http://maple-lab.net), Westlake University, focusing on **video generation models**, advised by [Guo-Jun Qi](https://scholar.google.com/citations?user=Nut-uvoAAAAJ&hl=en) (IEEE Fellow). I have interned at [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, focusing on **Image and video editing based on Diffusion**, advised by [Yan Wang](https://yanwang202199.github.io/).
+I am a third-year undergraduate student at [the School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. I am currently at [Guangming Lab (Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ))](https://www.gml.ac.cn/), advised by [Ming Li](https://ming1993li.github.io/), focusing on video generation models. I have previously interned at the [Maple Lab](https://maple.lab.westlake.edu.cn/) of Westlake University, [AIR](https://air.tsinghua.edu.cn/) at Tsinghua University, and [InplusLab](https://inpluslab.com/) at Sun Yat-sen University. I am honored to have been mentored by [Guo-Jun Qi](https://www.westlake.edu.cn/faculty/guojun-qi.html), Fellow of IEEE & IAPR, and [Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en), Fellow of IEEE & IET.
 
-My research interests include **Diffusion models, Generative AI, Vison-Language models, AI Security, and Trustworthy AI**. 
+My research interests include **Deep Generative Models, Multimodal Learning, and Computer Vision**. I am dedicated to the automated creation of films and artworks, where everyone can be the protagonist of their own story.  
 
 # 📝 Publications 
 - **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin Wu, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Information Forensics ans Security(TIFS)** and is under review.)
@@ -39,21 +39,27 @@ My research interests include **Diffusion models, Generative AI, Vison-Language 
 - *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
 
 # 📃 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to TIFS</div><img src='https://s2.loli.net/2024/10/18/43ekjHYtF8q7KaZ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2024/10/18/43ekjHYtF8q7KaZ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**
+**SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
 
 ***Zihao Pan**, Weibin WU, Yuhang Cao, Zibin Zheng IEEE Fellow*
 
+arXiv Preprint (Submitted to **IEEE Transactions on Information Forensics and Security(TIFS)**, Under Review)
+
+[PDF](https://arxiv.org/abs/2410.02240) [code](https://github.com/Pan-Zihao/SCA)
+
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Expected to be submitted</div><img src='https://s2.loli.net/2024/11/18/K62cufowMpLJy3H.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2024/11/18/K62cufowMpLJy3H.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**
 
-***Zihao Pan**, Yu Tong, Weibin WU, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow*
+***Zihao Pan**, Yu Tong\\dagger, Weibin WU, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow*
+
+
  
 </div>
 </div>
