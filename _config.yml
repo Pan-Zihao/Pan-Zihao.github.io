@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zihao Pan(潘子豪)"
-description              : "@ SYSU SSE"
+description              : "Undergraduate Student@SYSU SSE"
 repository               : "Pan-Zihao/Pan-Zihao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zihao Pan(潘子豪)"
   avatar           : "images/一寸照片.jpeg"
-  bio              : "Undergraduate Student"
+  bio              : "AI, Math, CS"
   location         : "Zhuhai, China"
   employer         : "Sun Yat-sen University"
   pubmed           : 
