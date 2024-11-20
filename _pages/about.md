@@ -21,11 +21,6 @@ I am a third-year undergraduate student at [the School of Software Engineering](
 
 My research interests include **Deep Generative Models, Multimodal Learning, and Computer Vision**. I am dedicated to the automated creation of films and artworks, where everyone can be the protagonist of their own story.  
 
-# 📝 Publications 
-- **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin Wu, Yuhang Cao, Zibin Zheng *IEEE Fellow* (This paper has been submitted to **IEEE Transactions on Information Forensics ans Security(TIFS)** and is under review.)
-- **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**, **Zihao Pan**, Yu Tong, Weibin Wu, Jingyi Wang, Yitong Qiao, Zibin Zheng *IEEE Fellow* (This paper has been submitted and is under review.）
-- **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
-
 # 🎖 Honors and Awards
 - **CVPR 2024 Workshop** - [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024/overview) - Hexathlon（Kaggle） **Silver medal**🥈(20/930)
 - **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University
@@ -36,7 +31,7 @@ My research interests include **Deep Generative Models, Multimodal Learning, and
 - Software Copyright: *Image Processing Software for Facial Recognition V1.0* Second Author, (Registration No: 11658428) 
 
 # 📖 Educations
-- *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. 
+- *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. (GPA:3.9/4.0)
 
 # 📃 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2024/10/18/43ekjHYtF8q7KaZ.png' alt="sym" width="100%"></div></div>
@@ -57,7 +52,7 @@ arXiv Preprint (Submitted to **IEEE Transactions on Information Forensics and Se
 
 **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**
 
-**Zihao Pan$\dagger$**, Yu Tong$\dagger$, Weibin WU$^*$, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow
+**Zihao Pan$^\dagger$**, Yu Tong$^\dagger$, Weibin WU$^*$, Jinyi Wang, Yitong Qiao, Zibin Zheng IEEE Fellow
 
 ($\dagger$ means equal contribution to this work)
 
@@ -68,8 +63,17 @@ Under Review
 </div>
 </div>
 
+# 📝 Publications 
+- **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin Wu, Yuhang Cao, Zibin Zheng *IEEE Fellow*
+- **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**, **Zihao Pan**, Yu Tong, Weibin Wu, Jingyi Wang, Yitong Qiao, Zibin Zheng *IEEE Fellow*
+- **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
+
 # 💻 Internships
+- *2024.11 - now*, [Guangming Lab](https://www.gml.ac.cn/), Shenzhen, China
 - *2024.07 - 2024.11*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
-- *2023.08 - now*, Inplus Lab TAI, Sun Yat-sen University, Zhuhai, China
-- *2024.05 - now*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
+- *2023.08 - 2024.11*, Inplus Lab TAI, Sun Yat-sen University, Zhuhai, China
+- *2024.05 - 2024.09*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
 - *2024.01 - 2024.03*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
+
+# 📕 Service
+- CVPR 2025 Reviewer
