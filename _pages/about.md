@@ -68,7 +68,9 @@ Under Review
 - **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**, **Zihao Pan**, Yu Tong, Weibin Wu, Jingyi Wang, Yitong Qiao, Zibin Zheng *IEEE Fellow*
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
 
-# 💻 Internships
+# 💻 Internships & Collaborations
+- *2024.11 - now*, [HCP Lab](https://sysu-hcp.net/), Sun Yat-sen University, Guangzhou, China
+- *2024.11 - now*, AI Institute, Shanghai Jiao Tong University, Shanghai, China
 - *2024.11 - now*, [Guangming Lab](https://www.gml.ac.cn/), Shenzhen, China
 - *2024.07 - 2024.11*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
 - *2023.08 - 2024.11*, Inplus Lab TAI, Sun Yat-sen University, Zhuhai, China
