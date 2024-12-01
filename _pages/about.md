@@ -21,6 +21,8 @@ I am a third-year undergraduate student at [the School of Software Engineering](
 
 My research interests include **Deep Generative Models, Multimodal Learning, and Computer Vision**. I am dedicated to the automated creation of films and artworks, where everyone can be the protagonist of their own story.  
 
+Personal Blog: [Apostle的博客 by Notion](https://panzihao.notion.site/Apostle-1315694fb46a80d9bb00f5ff756074e4?pvs=74)
+
 # 🎖 Honors and Awards
 - **CVPR 2024 Workshop** - [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024/overview) - Hexathlon（Kaggle） **Silver medal**🥈(20/930)
 - **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University
