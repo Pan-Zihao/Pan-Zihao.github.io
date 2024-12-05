@@ -68,7 +68,7 @@ Under Review
 # 📝 Publications 
 - **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin Wu, Yuhang Cao, Zibin Zheng *IEEE Fellow*
 - **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**, **Zihao Pan**, Yu Tong, Weibin Wu, Jingyi Wang, Yitong Qiao, Zibin Zheng *IEEE Fellow*
-- **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://kns.cnki.net/kcms2/article/abstract?v=VIrt19joK6iVe6UAFg_kpR5W3z4P6NHQk-81IDDQykWq34eeDdjXZEwuHanQNyn_3vWdNU6H3srZ9uZzV_HQHeQpH5QCv-KfKEEEe6Z8aAHLXLxcARL-BeOGdhpfdFEY-YajZ3HxakYR33V0nsE0AJn81EqyjvgZf1Sg_xyfHq8=&uniplatform=NZKPT)[J].中国新技术新产品,2024(3):132-136
+- **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://d.wanfangdata.com.cn/periodical/zgxjsxcpjx202403043)[J].中国新技术新产品,2024(3):132-136
 
 # 💻 Internships & Collaborations
 - *2024.11 - now*, [HCP Lab](https://sysu-hcp.net/), Sun Yat-sen University, Guangzhou, China
