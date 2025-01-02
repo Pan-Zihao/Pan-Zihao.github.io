@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student at [the School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. I have previously interned at the [Maple Lab](https://maple.lab.westlake.edu.cn/) of Westlake University, [AIR](https://air.tsinghua.edu.cn/) at Tsinghua University, and [InplusLab](https://inpluslab.com/) at Sun Yat-sen University. I am honored to have been mentored by [Guo-Jun Qi](https://www.westlake.edu.cn/faculty/guojun-qi.html), Fellow of IEEE & IAPR, and [Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en), Fellow of IEEE & IET.
+I am a third-year undergraduate student at [the School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. I am honored to have been mentored by [Guo-Jun Qi](https://www.westlake.edu.cn/faculty/guojun-qi.html), Fellow of IEEE & IAPR, and [Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en), Fellow of IEEE & IET.
 
 My research interests include **Deep Generative Models, Multimodal Learning, and Computer Vision**. I am dedicated to the automated creation of films and artworks, where everyone can be the protagonist of their own story.  
 
@@ -71,11 +71,10 @@ Under Review
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://d.wanfangdata.com.cn/periodical/zgxjsxcpjx202403043)[J].中国新技术新产品,2024(3):132-136
 
 # 💻 Internships & Collaborations
-- *2024.11 - now*, [HCP Lab](https://sysu-hcp.net/), Sun Yat-sen University, Guangzhou, China
+- *2025.02 - now*, [thusigsiclab](https://thusigsiclab.github.io/thu.github.io/), THUSIGS, Shenzhen, China
+- *2025.02 - now*, [Gen Lab](https://itszhen.com/), CUHKSZ, Shenzhen, China
+- *2024.12 - now*, [AGI Lab](https://icoz69.github.io/), Westlake University, Hangzhou, China
 - *2024.07 - 2024.11*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
 - *2023.08 - 2024.11*, Inplus Lab TAI, Sun Yat-sen University, Zhuhai, China
 - *2024.05 - 2024.09*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
 - *2024.01 - 2024.03*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
-
-# 📕 Service
-- CVPR 2025 Reviewer
