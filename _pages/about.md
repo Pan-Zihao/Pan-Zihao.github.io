@@ -21,8 +21,6 @@ I am a third-year undergraduate student at [the School of Software Engineering](
 
 My research interests include **Deep Generative Models, Multimodal Learning, and Computer Vision**. I am dedicated to the automated creation of films and artworks, where everyone can be the protagonist of their own story.  
 
-Personal Blog: [Apostle的博客 by Notion](https://panzihao.notion.site/Apostle-1315694fb46a80d9bb00f5ff756074e4?pvs=74)
-
 # 🎖 Honors and Awards
 - **CVPR 2024 Workshop** - [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024/overview) - Hexathlon（Kaggle） **Silver medal**🥈(20/930)
 - **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University
@@ -70,7 +68,7 @@ Under Review
 - **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**, **Zihao Pan**, Yu Tong, Weibin Wu, Jingyi Wang, Yitong Qiao, Zibin Zheng *IEEE Fellow*
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://d.wanfangdata.com.cn/periodical/zgxjsxcpjx202403043)[J].中国新技术新产品,2024(3):132-136
 
-# 💻 Internships & Collaborations
+# 💻 Internships
 - *2025.02 - now*, [thusigsiclab](https://thusigsiclab.github.io/thu.github.io/), THUSIGS, Shenzhen, China
 - *2025.02 - now*, [Gen Lab](https://itszhen.com/), CUHKSZ, Shenzhen, China
 - *2024.12 - now*, [AGI Lab](https://icoz69.github.io/), Westlake University, Hangzhou, China
