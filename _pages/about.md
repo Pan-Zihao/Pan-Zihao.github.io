@@ -21,7 +21,7 @@ I am a third-year undergraduate student at [the School of Software Engineering](
 
 My research interests include **Deep Generative Models, Multimodal Learning, and Computer Vision**. I am dedicated to the automated creation of films and artworks, where everyone can be the protagonist of their own story.  
 
-# 博客内容
+# 😊 Blogs
 
 - [编译原理笔记](https://pan-zi-haosorganization.gitbook.io/complier)
 
