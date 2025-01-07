@@ -24,7 +24,9 @@ My research interests include **Deep Generative Models, Multimodal Learning, and
 # 😊 Blogs
 
 - [编译原理笔记](https://pan-zi-haosorganization.gitbook.io/complier)
-
+- [数据库系统原理笔记](https://pan-zi-haosorganization.gitbook.io/Database)
+- [计算机图形学笔记](https://pan-zi-haosorganization.gitbook.io/cg)
+- [区块链原理与技术笔记](https://pan-zi-haosorganization.gitbook.io/blockchain)
 
 
 # 🎖 Honors and Awards
@@ -32,7 +34,7 @@ My research interests include **Deep Generative Models, Multimodal Learning, and
 - **Award of Merit** in SUMMER AIR 2024, Presented by Institute for AI Industry Research, Tsinghua University
 - First Prize 🥇, 2024 CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling), Guangdong Region
 - Third Prize, 2023 CUMCM (Contemporary Undergraduate Mathematical Contest in Modeling), Guangdong Region
-- Third Prize, 2023 National University Statistics Modeling Competition, GuangdongRegion
+- Third Prize, 2023 National Undergraduate Statistical Modeling Competition, Guangdong Region
 - Third Prize, 2023 Asia and Paciﬁc Mathematical Contest in Modeling
 - Software Copyright: *Image Processing Software for Facial Recognition V1.0* Second Author, (Registration No: 11658428) 
 
