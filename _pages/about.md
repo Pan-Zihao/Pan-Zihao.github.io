@@ -19,14 +19,7 @@ redirect_from:
 
 I am a third-year undergraduate student at [the School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University. I am honored to have been mentored by [Guo-Jun Qi](https://www.westlake.edu.cn/faculty/guojun-qi.html), Fellow of IEEE & IAPR, and [Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en), Fellow of IEEE & IET.
 
-My research interests include **Deep Generative Models, Multimodal Learning, and Computer Vision**. I am dedicated to the automated creation of films and artworks, where everyone can be the protagonist of their own story.  
-
-# 😊 Blogs
-
-- [编译原理笔记](https://pan-zi-haosorganization.gitbook.io/complier)
-- [数据库系统原理笔记](https://pan-zi-haosorganization.gitbook.io/Database)
-- [计算机图形学笔记](https://pan-zi-haosorganization.gitbook.io/cg)
-- [区块链原理与技术笔记](https://pan-zi-haosorganization.gitbook.io/blockchain)
+My research interests include **Deep Generative Models, Multimodal Learning, and Computer Vision**. 
 
 
 # 🎖 Honors and Awards
