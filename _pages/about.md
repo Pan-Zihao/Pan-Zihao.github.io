@@ -70,7 +70,7 @@ Under Review
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://d.wanfangdata.com.cn/periodical/zgxjsxcpjx202403043)[J].中国新技术新产品,2024(3):132-136
 
 # 💻 Internships
-- *2025.02 - now*, [thusigsiclab](https://thusigsiclab.github.io/thu.github.io/), THUSIGS, Shenzhen, China
+- *2025.02 - now*, [Seasun Games](https://www.xishanju.com/), Zhuhai, China
 - *2025.02 - now*, [Gen Lab](https://itszhen.com/), CUHKSZ, Shenzhen, China
 - *2024.12 - now*, [AGI Lab](https://icoz69.github.io/), Westlake University, Hangzhou, China
 - *2024.07 - 2024.11*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
