@@ -35,7 +35,7 @@ My research interests include **Deep Generative Models, Multimodal Learning, and
 - *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. (GPA: 4.04/5.00)
 
 # 📃 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2024/10/18/43ekjHYtF8q7KaZ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2025/03/07/bfAHduCv9jyeURg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
