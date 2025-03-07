@@ -63,15 +63,28 @@ Under Review
  
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src= "https://s2.loli.net/2025/03/07/bY97cB84Vnz1E5w.png" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Progressive Detail Injection for Training-Free Semantic Binding in Text-to-Image Synthesis**
+
+Chen Lifeng, Jiner Wang, **Zihao Pan**, Beier Zhu, Xiaofeng Yang, Chi Zhang 
+
+Under Review
+
+[PDF] [code]
+ 
+</div>
+</div>
 
 # 📝 Publications 
 - **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin Wu, Yuhang Cao, Zibin Zheng *IEEE Fellow*
 - **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**, **Zihao Pan**, Yu Tong, Weibin Wu, Jingyi Wang, Yitong Qiao, Zibin Zheng *IEEE Fellow*
+- **Progressive Detail Injection for Training-Free Semantic Binding in Text-to-Image Synthesis**, Chen Lifeng, Jiner Wang, **Zihao Pan**, Beier Zhu, Xiaofeng Yang, Chi Zhang
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://d.wanfangdata.com.cn/periodical/zgxjsxcpjx202403043)[J].中国新技术新产品,2024(3):132-136
 
 # 💻 Internships
 - *2025.02 - now*, [Seasun Games](https://www.xishanju.com/), Zhuhai, China
-- *2025.02 - now*, [Gen Lab](https://itszhen.com/), CUHKSZ, Shenzhen, China
 - *2024.12 - now*, [AGI Lab](https://icoz69.github.io/), Westlake University, Hangzhou, China
 - *2024.07 - 2024.11*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
 - *2023.08 - 2024.11*, Inplus Lab TAI, Sun Yat-sen University, Zhuhai, China
