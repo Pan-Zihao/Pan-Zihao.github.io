@@ -48,7 +48,7 @@ arXiv Preprint (Submitted to **IEEE Transactions on Information Forensics and Se
 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2024/11/18/K62cufowMpLJy3H.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src= "https://s2.loli.net/2025/03/07/9iwZR7LyE5jVplr.png" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**
