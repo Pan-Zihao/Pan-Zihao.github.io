@@ -32,7 +32,7 @@ My research interests include **Deep Generative Models, Multimodal Learning, and
 - Software Copyright: *Image Processing Software for Facial Recognition V1.0* Second Author, (Registration No: 11658428) 
 
 # 📖 Educations
-- *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. (GPA:3.9/4.0)
+- *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. (GPA: 4.04/5.00)
 
 # 📃 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2024/10/18/43ekjHYtF8q7KaZ.png' alt="sym" width="100%"></div></div>
