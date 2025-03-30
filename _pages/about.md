@@ -21,6 +21,8 @@ I am a third-year undergraduate student at [the School of Software Engineering](
 
 My research interests include **Deep Generative Models, Multimodal Learning, and Computer Vision**. 
 
+🙋 Welcome to my [blog](https://panzihao.notion.site/panzihaoblog)! Here I will share some cutting-edge research that I am interested in.
+
 
 # 🎖 Honors and Awards
 - **CVPR 2024 Workshop** - [Image Matching Challenge 2024](https://www.kaggle.com/competitions/image-matching-challenge-2024/overview) - Hexathlon（Kaggle） **Silver medal**🥈(20/930)
