@@ -86,9 +86,11 @@ Under Review
 - **潘子豪**.[一种面向商圈店铺管理规划的机器学习建模分析技术](https://d.wanfangdata.com.cn/periodical/zgxjsxcpjx202403043)[J].中国新技术新产品,2024(3):132-136
 
 # 💻 Internships
-- *2025.02 - now*, [Seasun Games](https://www.xishanju.com/), Zhuhai, China
-- *2024.12 - now*, [AGI Lab](https://icoz69.github.io/), Westlake University, Hangzhou, China
-- *2024.07 - 2024.11*, [Maple Lab](http://maple-lab.net/), Westlake University, Hangzhou, China
-- *2023.08 - 2024.11*, Inplus Lab TAI, Sun Yat-sen University, Zhuhai, China
-- *2024.05 - 2024.09*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
-- *2024.01 - 2024.03*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, Beijing, China
+- *2025.04 - now*, [HKUST MMLab](https://mmlab.ie.cuhk.edu.hk/), supervised by [Anyi Rao](https://anyirao.com/)
+- *2025.03 - now*, Department of Computer Science, Hong Kong Baptist University, supervised by [Kaiyang Zhou](https://kaiyangzhou.github.io/)
+- *2025.02 - now*, [Seasun Games](https://www.xishanju.com/)
+- *2024.12 - 2025.3*, [AGI Lab](https://icoz69.github.io/), Westlake University, supervised by [Chi Zhang](https://icoz69.github.io/)
+- *2024.07 - 2024.11*, [Maple Lab](http://maple-lab.net/), Westlake University, supervised by [Guojun Qi](https://www.westlake.edu.cn/faculty/guojun-qi.html)
+- *2023.08 - 2024.11*, [InplusLab](https://inpluslab.com/) TAI, Sun Yat-sen University, supervised by [Zibin Zheng](https://sse.sysu.edu.cn/teacher/100) & [Weibin Wu](https://sse.sysu.edu.cn/teacher/249)
+- *2024.05 - 2024.09*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, supervised by [Yan Wang](https://yanwang202199.github.io/)
+- *2024.01 - 2024.03*, [AIR](https://air.tsinghua.edu.cn/), Tsinghua University, supervised by [Zike Yan](https://zikeyan.github.io/)
