@@ -37,21 +37,6 @@ My research interests include **Deep Generative Models, Multimodal Learning, and
 - *2022.09 - 2026.06*, Undergraduate, School of Software Engineering, Sun Yat-sen University. (GPA: 4.04/5.00)
 
 # 📃 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2025/03/07/bfAHduCv9jyeURg.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
-
-**Zihao Pan**, Weibin WU$^*$, Yuhang Cao, Zibin Zheng IEEE Fellow
-
-arXiv Preprint (Submitted to **IEEE Transactions on Information Forensics and Security(TIFS)**, Under Review)
-
-[PDF](https://arxiv.org/abs/2410.02240) [code](https://github.com/Pan-Zihao/SCA)
-
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src= "https://s2.loli.net/2025/03/07/9iwZR7LyE5jVplr.png" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 **Exploring Adversarial Semantics of Large Vision-Language Models with Text-Driven Evolutionary Method**
 
@@ -61,7 +46,7 @@ arXiv Preprint (Submitted to **IEEE Transactions on Information Forensics and Se
 
 Under Review
 
-[PDF] [code]
+[PDF]     [code]
  
 </div>
 </div>
@@ -74,10 +59,26 @@ Chen Lifeng, Jiner Wang, **Zihao Pan**, Beier Zhu, Xiaofeng Yang, Chi Zhang
 
 Under Review
 
-[PDF] [code] [page](https://detail-plus-plus.github.io/)
+[PDF]     [code]     [[page\]](https://detail-plus-plus.github.io/)
  
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='https://s2.loli.net/2025/03/07/bfAHduCv9jyeURg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack**
+
+**Zihao Pan**, Weibin WU$^*$, Yuhang Cao, Zibin Zheng IEEE Fellow
+
+arXiv Preprint
+
+[[PDF\]](https://arxiv.org/abs/2410.02240)     [[code\]](https://github.com/Pan-Zihao/SCA)
+
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src= "https://s2.loli.net/2025/03/07/9iwZR7LyE5jVplr.png" alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 # 📝 Publications 
 - **[SCA: Highly Efficient Semantic Consistent Unrestricted Adversarial Attack](https://arxiv.org/abs/2410.02240)**, **Zihao Pan**, Weibin Wu, Yuhang Cao, Zibin Zheng *IEEE Fellow*
