@@ -24,3 +24,6 @@ latest_posts:
 ---
 
 Hi, I'm Zihao Pan, a third-year undergraduate student in Software Engineering at Sun Yat-sen University. My Research includes Generative Modeling, Multimodal Learning and AIGC. I had the privilege of working under the guidance of [Prof. Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en), [Prof. Guo-Jun Qi](https://en.westlake.edu.cn/faculty/guojun-qi.html), Prof. Weibin Wu and [Prof. Chi Zhang](https://icoz69.github.io/).
+
+
+Welcome to my [blog](https://panzihao.notion.site/panzihaoblog)！🎉
