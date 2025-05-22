@@ -369,11 +369,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-started-internship-at-seasun-games",
-          title: 'Started internship at Seasun Games.',
-          description: "",
-          section: "News",},{id: "news-started-research-assistant-at-cs-hkbu-advised-by-kaiyang-zhou",
+            },},{id: "news-started-research-assistant-at-cs-hkbu-advised-by-kaiyang-zhou",
           title: 'Started Research Assistant at CS@HKBU, advised by Kaiyang Zhou.',
+          description: "",
+          section: "News",},{id: "news-started-internship-at-oppo-ai-center",
+          title: 'Started internship at OPPO AI Center.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
