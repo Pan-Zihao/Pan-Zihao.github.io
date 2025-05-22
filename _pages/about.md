@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Sun Yat-sen University</a>
-
+subtitle: <a href='#'>Sun Yat-sen University<br>OPPO AI Center</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -23,7 +22,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Zihao Pan, a third-year undergraduate student in Software Engineering at Sun Yat-sen University. My Research includes Generative Modeling, Multimodal Learning and AIGC. I had the privilege of working under the guidance of [Prof. Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en), [Prof. Guo-Jun Qi](https://en.westlake.edu.cn/faculty/guojun-qi.html), Prof. Weibin Wu and [Prof. Chi Zhang](https://icoz69.github.io/).
-
+Hi, I'm Zihao Pan, a third-year undergraduate student in Software Engineering at Sun Yat-sen University. Currently, I’m interning with [OPPO AI Center](https://github.com/OPPO-Mente-Lab/), where I focus on unified image generation and editing. Prior to this, I had the privilege of working under the guidance of [Prof. Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en) and [Prof. Guo-Jun Qi](https://en.westlake.edu.cn/faculty/guojun-qi.html).
 
 Welcome to my [blog](https://panzihao.notion.site/panzihaoblog)！🎉
