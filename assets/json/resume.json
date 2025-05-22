@@ -1,6 +1,14 @@
 {
   "work": [
     {
+      "name": "OPPO AI Center",
+      "position": "Research Intern",
+      "url": "https://github.com/OPPO-Mente-Lab/",
+      "startDate": "2025-05",
+      "endDate": "",
+      "summary": "Research Intern at OPPO AI Center, focusing on unified image generation and editing like GPT-4o."
+    },
+    {
       "name": "Hong Kong Baptist University",
       "position": "Research Assistant",
       "url": "https://kaiyangzhou.github.io/",
@@ -10,11 +18,11 @@
     },
     {
       "name": "Seasun Games",
-      "position": "AIGC Algorithm Intern",
+      "position": "Algorithm Intern",
       "url": "https://www.seasungames.com/#/",
       "startDate": "2025-02",
       "endDate": "2025-06",
-      "summary": "AIGC Algorithm Intern at Seasun Games, focusing on 2D AIGC for games."
+      "summary": "Algorithm Intern at Seasun Games, focusing on 2D AIGC for games."
     }, 
     {
       "name": "AGI Lab, Westlake University",
@@ -22,7 +30,7 @@
       "url": "https://icoz69.github.io/",
       "startDate": "2024-12",
       "endDate": "2025-03",
-      "summary": "Advised by Chi Zhang, focusing on Diffusion models."
+      "summary": "Advised by Chi Zhang, focusing on AIGC."
     }, 
     {
       "name": "MAPLE Lab, Westlake University",
@@ -38,7 +46,7 @@
       "url": "https://air.tsinghua.edu.cn/en/",
       "startDate": "2024-04",
       "endDate": "2024-09",
-      "summary": "Advised by Yan Wang, focusing on Diffusion Inversion methods and Image Editing."
+      "summary": "Advised by Yan Wang, focusing on diffusion inversion methods."
     }
   ],
   "education": [
