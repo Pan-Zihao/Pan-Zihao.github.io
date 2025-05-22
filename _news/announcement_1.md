@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-2-19
+date: 2025-5-28
 inline: true
 related_posts: false
 ---
 
-Started internship at Seasun Games.
+Started internship at OPPO AI Center.
