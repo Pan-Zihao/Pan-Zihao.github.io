@@ -22,6 +22,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Zihao Pan, a third-year undergraduate student in Software Engineering at Sun Yat-sen University. Currently, I’m interning with [OPPO AI Center](https://github.com/OPPO-Mente-Lab/), where I focus on unified image generation and editing. Prior to this, I had the privilege of working under the guidance of [Prof. Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en) and [Prof. Guo-Jun Qi](https://en.westlake.edu.cn/faculty/guojun-qi.html).
+Hi, I'm Zihao Pan, a third-year undergraduate student in Software Engineering at Sun Yat-sen University. Currently, I’m interning with [OPPO AI Center](https://github.com/OPPO-Mente-Lab/), where I focus on unified image generation and editing. Prior to this, I had the privilege of working under the guidance of [Prof. Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en), [Prof. Guo-Jun Qi](https://en.westlake.edu.cn/faculty/guojun-qi.html) and [Kaiyang Zhou](https://kaiyangzhou.github.io/).
 
 Welcome to my [blog](https://panzihao.notion.site/panzihaoblog)！🎉
