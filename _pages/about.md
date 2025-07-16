@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Sun Yat-sen University<br>OPPO AI Center</a>
+subtitle: <a href='#'>Hong Kong University of Science and Technology (Guangzhou)<br>Sun Yat-sen University<br>OPPO AI Center</a>
 profile:
   align: right
   image: prof_pic.jpg
@@ -22,4 +22,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Zihao Pan, a final-year undergraduate student in Software Engineering at Sun Yat-sen University. I will be joining HKUST(GZ) to pursue a PhD, advised by [Prof. Zeke Xie](https://sites.google.com/view/zeke-xie). Currently, I’m interning with OPPO AI Center, where I focus on unified multimodal generation and comprehension. Prior to this, I had the privilege of working under the guidance of [Prof. Guo-Jun Qi](https://en.westlake.edu.cn/faculty/guojun-qi.html). 
+Hi, I'm **Zihao Pan**, a final-year undergraduate student in Software Engineering at **Sun Yat-sen University**. I will be joining **HKUST(GZ)** to pursue a PhD, advised by [Prof. Zeke Xie](https://sites.google.com/view/zeke-xie). Currently, I’m interning with **OPPO AI Center**, where I focus on *unified multimodal generation and comprehension*. Prior to this, I had the privilege of working under the guidance of [Prof. Guo-Jun Qi](https://en.westlake.edu.cn/faculty/guojun-qi.html). 
