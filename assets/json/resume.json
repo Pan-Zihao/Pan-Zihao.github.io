@@ -35,6 +35,15 @@
   ],
   "education": [
     {
+      "institution": "Hong Kong University of Science and Technology (Guangzhou)",
+      "location": "Guangzhou, China",
+      "url": "https://www.hkust-gz.edu.cn/",
+      "area": "Artificial Intelligence",
+      "studyType": "Ph.D.",
+      "startDate": "2026-09",
+      "endDate": "2030-06"
+    },
+    {
       "institution": "Sun Yat-sen University",
       "location": "Zhuhai, China",
       "url": "https://www.sysu.edu.cn/sysuen/",
