@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Hong Kong University of Science and Technology (Guangzhou)<br>Sun Yat-sen University<br>OPPO AI Center</a>
+subtitle: <a href='#'>Hong Kong University of Science and Technology (Guangzhou)<br>Sun Yat-sen University<br>Meituan M17</a>
 profile:
   align: right
   image: prof_pic.jpg
