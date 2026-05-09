@@ -597,6 +597,10 @@ a:focus-visible {
   transition: border-color var(--transition), transform var(--transition), box-shadow var(--transition);
 }
 
+.paper-card + .paper-card {
+  margin-top: 1rem;
+}
+
 .paper-card:hover {
   border-color: rgba(0, 245, 255, 0.55);
   transform: translateY(-3px);
@@ -625,6 +629,10 @@ a:focus-visible {
   transition: border-color var(--transition), box-shadow var(--transition);
 }
 
+.paper-thumb-wrap--standard {
+  aspect-ratio: 1410 / 728;
+}
+
 .paper-thumb-wrap:hover {
   border-color: var(--neon-magenta);
   box-shadow: 0 0 20px rgba(255, 45, 149, 0.2);
@@ -635,6 +643,12 @@ a:focus-visible {
   width: 100%;
   height: auto;
   vertical-align: middle;
+}
+
+.paper-thumb-wrap--standard .paper-thumb {
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 
 .paper-main .papertitle {
@@ -707,6 +721,24 @@ a:focus-visible {
   transform: translateY(-2px);
   box-shadow: 0 0 18px rgba(255, 45, 149, 0.25);
   text-decoration: none;
+}
+
+.chip-status {
+  color: #ff6b6b;
+  background: rgba(255, 56, 56, 0.08);
+  border-color: rgba(255, 56, 56, 0.72);
+  box-shadow: inset 0 0 16px rgba(255, 56, 56, 0.08);
+  cursor: default;
+}
+
+.chip-status:hover {
+  color: #ff8f8f;
+  background: rgba(255, 56, 56, 0.13);
+  border-color: #ff6b6b;
+  box-shadow:
+    inset 0 0 16px rgba(255, 56, 56, 0.08),
+    0 0 18px rgba(255, 56, 56, 0.22);
+  transform: none;
 }
 
 .exp-list {
