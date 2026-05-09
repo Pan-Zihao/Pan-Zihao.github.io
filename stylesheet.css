@@ -630,6 +630,7 @@ a:focus-visible {
 }
 
 .paper-thumb-wrap--standard {
+  position: relative;
   aspect-ratio: 1410 / 728;
 }
 
@@ -645,7 +646,11 @@ a:focus-visible {
   vertical-align: middle;
 }
 
+/* Absolute fill avoids percentage-height bugs so object-fit always applies (no stretch). */
 .paper-thumb-wrap--standard .paper-thumb {
+  position: absolute;
+  inset: 0;
+  width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: center;
@@ -723,7 +728,8 @@ a:focus-visible {
   text-decoration: none;
 }
 
-.chip-status {
+/* Must beat .chip (same element): higher specificity + explicit overrides */
+.chip.chip-status {
   color: #ff6b6b;
   background: rgba(255, 56, 56, 0.08);
   border-color: rgba(255, 56, 56, 0.72);
@@ -731,7 +737,7 @@ a:focus-visible {
   cursor: default;
 }
 
-.chip-status:hover {
+.chip.chip-status:hover {
   color: #ff8f8f;
   background: rgba(255, 56, 56, 0.13);
   border-color: #ff6b6b;
@@ -961,4 +967,3 @@ span.highlight {
   background: linear-gradient(90deg, rgba(0, 245, 255, 0.15), rgba(255, 45, 149, 0.12));
   padding: 0 0.15em;
 }
-
