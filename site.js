@@ -5,6 +5,29 @@
     typeof window.matchMedia === 'function' &&
     window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
+  var heroBg = document.querySelector('.hero-bg');
+  if (heroBg) {
+    var baseOpacity = 0.9;
+    var fadeDistance = 520;
+    var heroTicking = false;
+    var updateHeroBg = function () {
+      var progress = Math.min(window.scrollY / fadeDistance, 1);
+      heroBg.style.opacity = (baseOpacity * (1 - progress)).toFixed(3);
+      heroTicking = false;
+    };
+    window.addEventListener(
+      'scroll',
+      function () {
+        if (!heroTicking) {
+          window.requestAnimationFrame(updateHeroBg);
+          heroTicking = true;
+        }
+      },
+      { passive: true }
+    );
+    updateHeroBg();
+  }
+
   var toTop = document.getElementById('to-top');
   if (toTop) {
     var toggleTop = function () {
