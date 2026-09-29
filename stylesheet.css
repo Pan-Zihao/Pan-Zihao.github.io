@@ -88,8 +88,8 @@
   --radius-sm: 3px;
   --shadow: 0 14px 36px rgba(58, 52, 44, 0.08);
   --shadow-soft: 0 6px 18px rgba(58, 52, 44, 0.06);
-  --font: 'Zen Kaku Gothic New', 'Lato', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', Verdana, Helvetica, sans-serif;
-  --font-display: 'Shippori Mincho', 'Hiragino Mincho ProN', 'Yu Mincho', Georgia, serif;
+  --font: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  --font-display: 'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
   --transition: 0.28s cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 
