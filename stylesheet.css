@@ -71,8 +71,8 @@
 :root {
   --washi: #ffffff;
   --washi-deep: #efe9db;
-  --surface: #fbf8f1;
-  --surface-2: #f3eee2;
+  --surface: #ffffff;
+  --surface-2: #f6f6f6;
   --line: rgba(58, 52, 44, 0.14);
   --line-strong: rgba(58, 52, 44, 0.28);
   --sumi: #2c2a26;
@@ -843,7 +843,7 @@ a:focus-visible {
   align-items: center;
   justify-content: center;
   padding: 1.35rem 1.1rem;
-  background: #fdfcf8;
+  background: #fff;
   border-right: 1px solid var(--line);
 }
 
