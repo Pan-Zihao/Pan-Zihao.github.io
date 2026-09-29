@@ -133,33 +133,6 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Large sumi-e hero backdrop; fades toward the page and on scroll (see site.js) */
-.hero-bg {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: min(82vh, 720px);
-  z-index: -2;
-  pointer-events: none;
-  background-image: url("images/hero-bg.png");
-  background-size: cover;
-  background-position: 50% 16%;
-  background-repeat: no-repeat;
-  opacity: 0.9;
-  -webkit-mask-image: linear-gradient(180deg, #000 0%, #000 40%, rgba(0, 0, 0, 0.4) 72%, transparent 100%);
-  mask-image: linear-gradient(180deg, #000 0%, #000 40%, rgba(0, 0, 0, 0.4) 72%, transparent 100%);
-  transition: opacity 0.18s linear;
-  will-change: opacity;
-}
-
-@media (max-width: 720px) {
-  .hero-bg {
-    height: min(70vh, 540px);
-    background-position: 64% 16%;
-  }
-}
-
 /* Subtle paper grain so flat colour fields feel like washi */
 .paper-texture {
   position: fixed;
