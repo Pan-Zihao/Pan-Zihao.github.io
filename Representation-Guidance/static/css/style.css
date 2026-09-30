@@ -368,3 +368,19 @@ figcaption { text-align: left; }
 .takeaways p { font-family: var(--serif); font-size: 18px; line-height: 1.6; color: var(--ink); margin: 6px 0 12px; }
 .takeaways em { color: var(--accent); }
 .takeaways p + p { font-size: 17px; }
+
+.method-list { list-style: none; padding: 0; margin: 22px 0 0; }
+.method-list li { position: relative; padding-left: 18px; margin-bottom: 10px; }
+.method-list li::before {
+  content: ""; position: absolute; left: 0; top: .72em;
+  width: 7px; height: 7px; border-radius: 50%; background: var(--accent);
+}
+.method-list b { color: var(--ink); }
+.ssl {
+  margin-top: 26px;
+  padding: 16px 22px 4px;
+  border-left: 3px solid var(--accent);
+  background: var(--bg-soft);
+  border-radius: 0 10px 10px 0;
+}
+.ssl p { margin: 6px 0 12px; }

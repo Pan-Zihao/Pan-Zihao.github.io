@@ -1,19 +1,8 @@
 (function () {
   var IMAGENET = [88, 42, 105, 263, 269, 282, 291, 483, 504, 511, 933, 949];
 
-  // Prompts from Figure/t2i_prompts.txt and Figure/t2i_prompts_1024.txt.
+  // Prompts from Figure/t2i_prompts_1024.txt.
   var PROMPTS = {
-    "512": [
-      "A cup of matcha latte by the window.",
-      "A watercolor bookshop on a rainy night.",
-      "A red panda astronaut in a space station.",
-      "A snowy Japanese village at night.",
-      "A portrait of an elderly Maasai woman.",
-      "Pixel art of a floating island village.",
-      "An ukiyo-e whale leaping over Mount Fuji.",
-      "A silver sports car on a salt flat at sunset.",
-      "Hot air balloons over Cappadocia at sunrise."
-    ],
     "1024": [
       "A lighthouse in a storm.",
       "A corgi in sunglasses on the beach.",
@@ -73,7 +62,6 @@
 
   // Text-to-image gallery
   var grid = document.getElementById("t2i-grid");
-  var t2iTabs = document.getElementById("t2i-tabs");
   function showT2I(res) {
     grid.innerHTML = "";
     PROMPTS[res].forEach(function (p, i) {
@@ -91,13 +79,7 @@
       grid.appendChild(fig);
     });
   }
-  t2iTabs.querySelectorAll("button").forEach(function (b) {
-    b.addEventListener("click", function () {
-      selectTab(t2iTabs, b);
-      showT2I(b.dataset.res);
-    });
-  });
-  showT2I("512");
+  showT2I("1024");
 
   // BibTeX copy
   var copyBtn = document.querySelector(".copy");

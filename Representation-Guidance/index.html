@@ -157,7 +157,15 @@
     <figure>
       <img src="static/img/pipeline.png" alt="Training pipeline of Representation Guidance" loading="lazy" width="2200" height="566">
     </figure>
+    <ul class="method-list">
+      <li><b>Implicit latent space.</b> A low-dimensional bottleneck between the encoder and decoder forms a compact implicit latent space, encouraging generation-relevant information to be organized into a concise internal representation.</li>
+      <li><b>Representation guidance.</b> We compare decoder predictions with and without the representation and use the resulting representation-induced velocity offset to modify the flow-matching target. This increases the model's dependence on the representation, while gradients through it simultaneously shape the encoder toward information useful for synthesis.</li>
+    </ul>
     <div class="eq">$$\mathbf{v}_{\text{RG}} = \mathbf{v} + (s-1)\,\operatorname{sg}\big(\Delta\mathbf{v}_{\text{rep}}\big), \qquad \Delta\mathbf{v}_{\text{rep}} = \mathbf{v}_{\theta}(\mathbf{z}_t,t,\mathbf{r}) - \mathbf{v}_{\theta}(\mathbf{z}_t,t,\varnothing)$$</div>
+    <div class="ssl">
+      <span class="takeaways-tag">Connection to self-supervised learning</span>
+      <p>RG also shares a core principle with self-distillation in self-supervised learning: the representation is bootstrapped from targets derived from the model's own predictions. Whereas self-distillation sharpens the teacher distribution to induce discriminative features, RG sharpens the velocity target along the representation-induced offset, which compels the representation to encode the semantic and spatial structure required for generation.</p>
+    </div>
   </section>
 
   <!-- Results -->
@@ -268,11 +276,7 @@
       <figcaption id="in-cap">Uncurated ImageNet $256\times256$ and $512\times512$ RG-XL/16 samples. Class 88.</figcaption>
     </figure>
 
-    <h3 class="sub">Text-to-image</h3>
-    <div class="tabs" role="tablist" aria-label="Resolution" id="t2i-tabs">
-      <button role="tab" data-res="512" aria-selected="true">512 &times; 512</button>
-      <button role="tab" data-res="1024" aria-selected="false">1024 &times; 1024</button>
-    </div>
+    <h3 class="sub">Text-to-image, $1024\times1024$</h3>
     <div class="t2i-grid" id="t2i-grid"></div>
   </section>
 
