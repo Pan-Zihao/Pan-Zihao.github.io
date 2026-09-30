@@ -136,6 +136,12 @@
       </ul>
       <figcaption>Different pixel decoders induce different balances of global semantics and spatial structure in encoder.</figcaption>
     </figure>
+
+    <div class="takeaways">
+      <span class="takeaways-tag">Takeaways</span>
+      <p>Together, these findings motivate controlling both how the representation is formed during generation and how it is used by subsequent synthesis. A useful generative representation must be both <em>properly formed</em> and <em>actively exploited</em>.</p>
+      <p>Based on these insights, we introduce <b>Representation Guidance (RG)</b>.</p>
+    </div>
   </section>
 
   <!-- Method -->
@@ -144,6 +150,10 @@
     <p class="lead-p">
       The bottleneck and guidance play complementary roles: the former governs <em>how the representation is formed</em>, while the latter ensures that <em>generation actually uses it</em>.
     </p>
+    <figure>
+      <img src="static/img/architecture.png" alt="Architecture comparison of JiT, RG, PixelDiT, DeCo and DiP" loading="lazy" width="2200" height="748">
+      <figcaption><b>Architecture comparison.</b> (a) JiT and (b) RG use patch-level input and standard Transformer blocks. JiT uses a single stack, while RG conditions its decoder on the bottleneck output, which is randomly dropped during training. (c)&ndash;(e) Pixel-specialized decoders take pixel-level input.</figcaption>
+    </figure>
     <figure>
       <img src="static/img/pipeline.png" alt="Training pipeline of Representation Guidance" loading="lazy" width="2200" height="566">
     </figure>
@@ -158,20 +168,59 @@
       <figcaption><b>Our RG enables efficient scaling and better internal representations.</b> (a) RG scales consistently from B to XL. (b) RG learns clearer spatial structure and more localized semantic correspondence.</figcaption>
     </figure>
 
+    <h3 class="sub">ImageNet $256\times256$</h3>
+    <div class="table-wrap">
+      <table class="res">
+        <thead>
+          <tr><th class="l">Method</th><th>Epoch</th><th>Params</th><th>Pre-training</th><th>gFID&darr;</th><th>IS&uarr;</th><th>Precision&uarr;</th><th>Recall&uarr;</th></tr>
+        </thead>
+        <tbody>
+          <tr class="grp"><td colspan="8">Latent-space Generative Models</td></tr>
+          <tr><td class="l">DiT-XL</td><td>1400</td><td>675M</td><td>SD-VAE</td><td>2.27</td><td>278.2</td><td><b>0.83</b></td><td>0.57</td></tr>
+          <tr><td class="l">SiT-XL</td><td>1400</td><td>675M</td><td>SD-VAE</td><td>2.06</td><td>270.3</td><td>0.82</td><td>0.59</td></tr>
+          <tr><td class="l">REPA</td><td>800</td><td>675M</td><td>SD-VAE, DINOv2</td><td>1.42</td><td>305.7</td><td>0.80</td><td>0.65</td></tr>
+          <tr><td class="l">Lightning DiT</td><td>800</td><td>675M</td><td>VA-VAE</td><td>1.35</td><td>295.3</td><td>0.79</td><td>0.65</td></tr>
+          <tr><td class="l">DDT-XL</td><td>400</td><td>675M</td><td>SD-VAE, DINOv2</td><td>1.26</td><td><b>310.6</b></td><td>0.79</td><td>0.65</td></tr>
+          <tr><td class="l">RAE-XL</td><td>800</td><td>839M</td><td>RAE</td><td><b>1.13</b></td><td>262.6</td><td>0.78</td><td><b>0.67</b></td></tr>
+          <tr class="grp"><td colspan="8">Pixel-space Generative Models</td></tr>
+          <tr><td class="l">RIN</td><td>480</td><td>410M</td><td>-</td><td>3.42</td><td>182.0</td><td>-</td><td>-</td></tr>
+          <tr><td class="l">VDM++</td><td>-</td><td>-</td><td>-</td><td>2.12</td><td>267.7</td><td>-</td><td>-</td></tr>
+          <tr><td class="l">JetFormer</td><td>-</td><td>2.8B</td><td>-</td><td>6.64</td><td>-</td><td>0.69</td><td>0.56</td></tr>
+          <tr><td class="l">Simple Diffusion</td><td>800</td><td>2.0B</td><td>-</td><td>2.44</td><td>256.3</td><td>-</td><td>-</td></tr>
+          <tr><td class="l">FARMER</td><td>320</td><td>1.9B</td><td>-</td><td>3.60</td><td>269.2</td><td><b>0.81</b></td><td>0.51</td></tr>
+          <tr><td class="l">EPG-XXL/16</td><td>600</td><td>789M</td><td>-</td><td>1.81</td><td>294.6</td><td>0.80</td><td>0.61</td></tr>
+          <tr><td class="l">PixelFlow-XL</td><td>320</td><td>677M</td><td>-</td><td>1.98</td><td>282.1</td><td>0.81</td><td>0.60</td></tr>
+          <tr><td class="l">PixNerd-XL</td><td>320</td><td>700M</td><td>DINOv2</td><td>1.93</td><td>298.0</td><td>0.80</td><td>0.60</td></tr>
+          <tr><td class="l">JiT-G/16</td><td>600</td><td>2B</td><td>-</td><td>1.82</td><td>292.6</td><td>0.79</td><td>0.62</td></tr>
+          <tr><td class="l">PixelGen-XL/16</td><td>160</td><td>676M</td><td>VGG, DINOv2</td><td>1.83</td><td>293.6</td><td>0.79</td><td>0.63</td></tr>
+          <tr><td class="l">PixelREPA-H/16</td><td>600</td><td>953M</td><td>DINOv2</td><td>1.81</td><td>317.2</td><td>-</td><td>-</td></tr>
+          <tr><td class="l">DeCo-XL/16</td><td>600</td><td>682M</td><td>DINOv2</td><td>1.69</td><td>304</td><td>0.79</td><td>0.63</td></tr>
+          <tr><td class="l">DiP-XL/16</td><td>600</td><td>631M</td><td>DINOv2</td><td>1.79</td><td>281.9</td><td>0.80</td><td>0.63</td></tr>
+          <tr><td class="l">PixelDiT-XL</td><td>320</td><td>797M</td><td>DINOv2</td><td>1.61</td><td>292.7</td><td>0.78</td><td>0.64</td></tr>
+          <tr><td class="l">PixelU-H/16</td><td>600</td><td>1168M</td><td>DINOv2</td><td>1.63</td><td><b>305.9</b></td><td>0.79</td><td>0.64</td></tr>
+          <tr class="ours"><td class="l">RG-L/16</td><td>600</td><td>459M</td><td>DINOv2</td><td>1.79</td><td>285.6</td><td>0.79</td><td>0.64</td></tr>
+          <tr class="ours"><td class="l">RG-XL/16</td><td>600</td><td>725M</td><td>DINOv2</td><td><b>1.55</b></td><td>293.8</td><td>0.80</td><td><b>0.64</b></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="tcap"><b>Bold</b> = best in column.</p>
+
     <div class="two-tables">
       <div>
         <h3 class="sub">ImageNet $512\times512$</h3>
         <div class="table-wrap">
           <table class="res">
-            <thead><tr><th class="l">Method</th><th>gFID&darr;</th><th>IS&uarr;</th></tr></thead>
+            <thead><tr><th class="l">Method</th><th>gFID&darr;</th><th>IS&uarr;</th><th>Prec.&uarr;</th><th>Rec.&uarr;</th></tr></thead>
             <tbody>
-              <tr><td class="l">SiT-XL</td><td>2.62</td><td>252.2</td></tr>
-              <tr><td class="l">REPA</td><td>2.08</td><td>274.6</td></tr>
-              <tr><td class="l">JiT-H/32</td><td>1.94</td><td>309.1</td></tr>
-              <tr><td class="l">DeCo-XL/16</td><td>2.22</td><td>290.0</td></tr>
-              <tr><td class="l">PixelDiT-XL</td><td>1.81</td><td>278.6</td></tr>
-              <tr><td class="l">PixelU-H/32</td><td>1.92</td><td><b>322.1</b></td></tr>
-              <tr class="ours"><td class="l">RG-XL/16</td><td><b>1.74</b></td><td>287.5</td></tr>
+              <tr class="grp"><td colspan="5">Latent-space Generative Models</td></tr>
+              <tr><td class="l">SiT-XL</td><td>2.62</td><td>252.2</td><td>0.84</td><td>0.57</td></tr>
+              <tr><td class="l">REPA</td><td>2.08</td><td>274.6</td><td>0.83</td><td>0.58</td></tr>
+              <tr class="grp"><td colspan="5">Pixel-space Generative Models</td></tr>
+              <tr><td class="l">JiT-H/32</td><td>1.94</td><td>309.1</td><td>-</td><td>-</td></tr>
+              <tr><td class="l">DeCo-XL/16</td><td>2.22</td><td>290.0</td><td>0.80</td><td>0.60</td></tr>
+              <tr><td class="l">PixelDiT-XL</td><td>1.81</td><td>278.6</td><td>0.78</td><td>0.67</td></tr>
+              <tr><td class="l">PixelU-H/32</td><td>1.92</td><td>322.1</td><td>0.80</td><td>0.58</td></tr>
+              <tr class="ours"><td class="l">RG-XL/16</td><td><b>1.74</b></td><td>287.5</td><td>0.79</td><td>0.65</td></tr>
             </tbody>
           </table>
         </div>
@@ -182,17 +231,30 @@
           <table class="res">
             <thead><tr><th class="l">Method</th><th>Params</th><th>GenEval&uarr;</th><th>DPG&uarr;</th></tr></thead>
             <tbody>
+              <tr class="grp"><td colspan="4">Latent-space Generative Models</td></tr>
               <tr><td class="l">SD3</td><td>8B</td><td>0.68</td><td>84.1</td></tr>
               <tr><td class="l">FLUX.1-dev</td><td>12B</td><td>0.67</td><td>83.8</td></tr>
+              <tr class="grp"><td colspan="4">Pixel-space Generative Models</td></tr>
               <tr><td class="l">PixelDiT-T2I</td><td>1.3+2.6B</td><td>0.78</td><td>83.7</td></tr>
+              <tr><td class="l">PixelGen-XXL/16</td><td>1.1+1.7B</td><td>0.79</td><td>&ndash;</td></tr>
               <tr><td class="l">DeCo-XXL/16</td><td>1.1+1.7B</td><td>0.86</td><td>81.4</td></tr>
               <tr><td class="l">MiniT2I-L/16</td><td>912+341M</td><td>0.88</td><td>85.9</td></tr>
               <tr class="ours"><td class="l">RG-T2I-L/16</td><td>912+341M</td><td><b>0.89</b></td><td><b>87.1</b></td></tr>
             </tbody>
           </table>
         </div>
+        <p class="tcap">Reported parameter counts include both the generator and the text encoder.</p>
       </div>
     </div>
+  </section>
+
+  <!-- Feature visualization -->
+  <section class="wrap" id="visualization">
+    <h2>Feature Visualization</h2>
+    <figure>
+      <img src="static/img/layer_pca.png" alt="Layer-wise PCA visualization of JiT-B, JiT-B with REPA, and RG-B" loading="lazy" width="2200" height="735">
+      <figcaption><b>PCA visualization of layer-wise features.</b> While REPA-induced structure in JiT-B degrades in later layers, RG-B keeps clear semantic contours in encoder layers 3&ndash;8, with high-frequency patterns in decoder layers 9&ndash;12, indicating functional specialization.</figcaption>
+    </figure>
   </section>
 
   <!-- Gallery -->

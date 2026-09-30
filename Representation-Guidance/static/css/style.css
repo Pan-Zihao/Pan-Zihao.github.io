@@ -351,3 +351,20 @@ main > section.wrap:not([id]) { margin-top: 32px; }
 #results .two-tables h3.sub { min-height: 0; }
 figcaption { text-align: left; }
 .plots.four { gap: 8px; }
+
+.takeaways {
+  margin: 48px auto 0;
+  padding: 22px 28px 10px;
+  max-width: 720px;
+  text-align: center;
+  background: var(--tint);
+  border-radius: 12px;
+}
+.takeaways-tag {
+  font-family: var(--mono);
+  font-size: 12px; letter-spacing: .06em; text-transform: uppercase;
+  color: var(--accent);
+}
+.takeaways p { font-family: var(--serif); font-size: 18px; line-height: 1.6; color: var(--ink); margin: 6px 0 12px; }
+.takeaways em { color: var(--accent); }
+.takeaways p + p { font-size: 17px; }
