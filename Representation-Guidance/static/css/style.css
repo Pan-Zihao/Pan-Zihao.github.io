@@ -423,3 +423,19 @@ figcaption.tagline {
 }
 #insights .lead-p { margin-top: -4px; }
 @media (max-width: 860px) { .why-grid { grid-template-columns: minmax(0,1fr); } }
+
+/* ---------- Motivation body text & core goal ---------- */
+.fig-text { margin-top: 18px; font-size: 16.5px; color: var(--text); }
+.fig-text p { margin: 0 0 8px; }
+.fig-text b { color: var(--ink); }
+.goal {
+  margin: 40px auto 0;
+  max-width: 740px;
+  padding: 22px 30px 14px;
+  text-align: center;
+  background: var(--tint);
+  border-radius: 12px;
+}
+.goal p { font-family: var(--serif); font-size: 20px; line-height: 1.55; color: var(--ink); margin: 8px 0 6px; }
+.goal em { color: var(--accent); }
+#results .lead-p { font-size: 17.5px; }
