@@ -442,3 +442,20 @@ figcaption.tagline {
 
 .why-para { font-size: 16.5px; line-height: 1.75; margin-top: 4px; }
 .why-para b { color: var(--ink); font-weight: 600; }
+
+.why-list { list-style: none; padding: 0; margin: 6px 0 0; font-size: 16.5px; }
+.why-list li { position: relative; padding-left: 20px; margin-bottom: 10px; }
+.why-list li::before {
+  content: ""; position: absolute; left: 0; top: .72em;
+  width: 8px; height: 8px; border-radius: 50%; background: var(--accent);
+}
+.why-list b { color: var(--ink); font-weight: 600; }
+.why-summary {
+  margin: 20px 0 0;
+  padding: 12px 18px;
+  border-left: 3px solid var(--accent);
+  background: var(--tint);
+  border-radius: 0 8px 8px 0;
+  font-family: var(--serif); font-size: 18px; line-height: 1.55; color: var(--ink);
+}
+.why-summary em { color: var(--accent); }

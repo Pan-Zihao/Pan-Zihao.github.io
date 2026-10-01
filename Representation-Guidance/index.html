@@ -104,10 +104,11 @@
   <section class="wrap" id="motivation">
     <h2>Motivation</h2>
     <p class="lead-p">Why <span class="hl">pixel space</span> and a <span class="hl">plain Transformer</span>?</p>
-    <p class="why-para">
-      We study <b>pixel diffusion transformers</b>, where representation learning and image synthesis take place <b>end-to-end from raw pixels</b> rather than through a representation space predefined by an external autoencoder.
-      A <b>plain Transformer</b>, without specialized architectural design, allows <b>efficient scaling</b> and provides a simple setting for examining how internal representations emerge and interact with pixel synthesis.
-    </p>
+    <ul class="why-list">
+      <li><b>Pixel space.</b> Representation learning and image synthesis take place <b>end-to-end from raw pixels</b>, rather than through a representation space predefined by an external autoencoder.</li>
+      <li><b>Plain Transformer.</b> Without specialized architectural design, it allows <b>efficient scaling</b> and provides a simple setting for examining how internal representations emerge and interact with pixel synthesis.</li>
+    </ul>
+    <p class="why-summary">Together, they offer a fully <span class="hl">end-to-end</span> and <span class="hl">scalable</span> setting, in which representations for generation are <em>learned</em> rather than <em>predefined</em>.</p>
     <figure class="motivation-fig">
       <img src="static/img/scaling_pca.png" alt="(a) FID versus parameters. (b) PCA and cosine-similarity maps of internal features" loading="lazy" width="2200" height="816">
     </figure>
