@@ -104,16 +104,10 @@
   <section class="wrap" id="motivation">
     <h2>Motivation</h2>
     <p class="lead-p">Why <span class="hl">pixel space</span> and a <span class="hl">plain Transformer</span>?</p>
-    <div class="why-grid">
-      <div class="why">
-        <span class="why-tag">Pixel diffusion transformers</span>
-        <p>Representation learning and image synthesis take place <b>end-to-end from raw pixels</b>, rather than through a representation space predefined by an external autoencoder.</p>
-      </div>
-      <div class="why">
-        <span class="why-tag">Plain Transformer</span>
-        <p>A plain Transformer provides <b>a simple setting for examining how internal representations emerge and interact with pixel synthesis</b>.</p>
-      </div>
-    </div>
+    <p class="why-para">
+      We study <b>pixel diffusion transformers</b>, where representation learning and image synthesis take place <b>end-to-end from raw pixels</b> rather than through a representation space predefined by an external autoencoder.
+      A <b>plain Transformer</b>, without specialized architectural design, allows <b>efficient scaling</b> and provides a simple setting for examining how internal representations emerge and interact with pixel synthesis.
+    </p>
     <figure class="motivation-fig">
       <img src="static/img/scaling_pca.png" alt="(a) FID versus parameters. (b) PCA and cosine-similarity maps of internal features" loading="lazy" width="2200" height="816">
     </figure>
@@ -121,10 +115,6 @@
       <p><b>Our RG enables efficient scaling and better internal representations.</b></p>
       <p><b>(a)</b> RG scales consistently from B to XL. It achieves lower FID with fewer parameters and FLOPs than plain-Transformer JiT baselines, while also outperforming pixel-specialized decoders at lower complexity.</p>
       <p><b>(b)</b> RG learns clearer spatial structure and more localized semantic correspondence.</p>
-    </div>
-    <div class="goal">
-      <span class="takeaways-tag">Core goal</span>
-      <p>Scale a <span class="hl">plain Transformer</span> for <span class="hl">end-to-end pixel diffusion</span>, without specialized architectural design, such that strong internal representations both <em>emerge</em> and are <em>actively exploited</em> for generation.</p>
     </div>
   </section>
 

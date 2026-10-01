@@ -439,3 +439,6 @@ figcaption.tagline {
 .goal p { font-family: var(--serif); font-size: 20px; line-height: 1.55; color: var(--ink); margin: 8px 0 6px; }
 .goal em { color: var(--accent); }
 #results .lead-p { font-size: 17.5px; }
+
+.why-para { font-size: 16.5px; line-height: 1.75; margin-top: 4px; }
+.why-para b { color: var(--ink); font-weight: 600; }
