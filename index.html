@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fafaf8">
+  <meta name="author" content="Zihao Pan">
+  <meta name="description" content="Zihao Pan's academic homepage. Research in generative modeling and representation learning.">
+  <title>Zihao Pan</title>
+  <link rel="canonical" href="https://pan-zihao.github.io/">
+  <link rel="alternate" hreflang="en" href="https://pan-zihao.github.io/?lang=en">
+  <link rel="alternate" hreflang="zh-Hans" href="https://pan-zihao.github.io/?lang=zh">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌸</text></svg>">
+  <script>
+    (() => {
+      const root = document.documentElement;
+      const requested = new URLSearchParams(location.search).get('lang');
+      let language, theme;
+      try {
+        language = localStorage.getItem('lang');
+        theme = localStorage.getItem('theme');
+        if (requested === 'en' || requested === 'zh') localStorage.setItem('lang', requested);
+      } catch {}
+      language = requested === 'en' || requested === 'zh' ? requested : language;
+      root.dataset.lang = language === 'zh' ? 'zh' : 'en';
+      root.lang = language === 'zh' ? 'zh-Hans' : 'en';
+      if (theme === 'light' || theme === 'dark') root.dataset.theme = theme;
+      document.querySelector('meta[name="theme-color"]').content =
+        (theme === 'dark' || (theme !== 'light' && matchMedia('(prefers-color-scheme: dark)').matches))
+          ? '#121212' : '#fafaf8';
+      root.classList.add('js');
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="stylesheet.css?v=20261122">
+  <script src="site.js?v=20261104" defer></script>
+</head>
+<body>
+  <svg class="sr-only" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="icon-mail" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></symbol>
+    <symbol id="icon-scholar" viewBox="0 0 24 24"><path d="m3 8 9-4 9 4-9 4-9-4Zm4 4v4c0 2 10 2 10 0v-4m4-2v5"/></symbol>
+    <symbol id="icon-github" viewBox="0 0 24 24"><path d="M9 19c-4.3 1.3-4.3-2.2-6-2.7m12 5.2v-3.4a3 3 0 0 0-.8-2.3c2.7-.3 5.6-1.3 5.6-6A4.7 4.7 0 0 0 18.5 6a4.4 4.4 0 0 0-.1-3.4s-1-.3-3.4 1.3a12 12 0 0 0-6 0C6.6 2.3 5.6 2.6 5.6 2.6A4.4 4.4 0 0 0 5.5 6a4.7 4.7 0 0 0-1.3 3.4c0 4.7 2.9 5.7 5.6 6a3 3 0 0 0-.8 2.3v3.8"/></symbol>
+  </svg>
+  <a class="skip-link" href="#main"><span data-lang-en>Skip to content</span><span data-lang-zh>跳到正文</span></a>
+
+  <header class="site-header">
+    <nav class="site-nav">
+      <div class="site-nav__links">
+        <a href="#news"><span data-lang-en>News</span><span data-lang-zh>动态</span></a>
+        <a href="#publications"><span data-lang-en><span class="nav-full">Publications</span><span class="nav-short">Papers</span></span><span data-lang-zh>论文</span></a>
+        <a href="#education"><span data-lang-en>Education</span><span data-lang-zh>教育</span></a>
+        <a href="#experience"><span data-lang-en>Experience</span><span data-lang-zh>经历</span></a>
+      </div>
+      <div class="site-nav__toggles js-only">
+        <button class="toggle lang-toggle" id="lang-toggle" type="button" aria-label="切换到中文"><span data-lang-en aria-hidden="true">中</span><span data-lang-zh aria-hidden="true">EN</span></button>
+        <button class="toggle theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark theme"><span class="moon" aria-hidden="true">☾</span><span class="sun" aria-hidden="true">☉</span></button>
+      </div>
+    </nav>
+  </header>
+
+  <main class="site-main" id="main">
+    <section class="hero" aria-labelledby="name">
+      <div class="hero__text">
+        <h1 id="name" translate="no">Zihao Pan</h1>
+        <div class="hero__summary">
+          <p data-lang-en>Research intern at <span class="hero__company">Alibaba</span>.</p>
+          <p data-lang-zh><span class="hero__company">阿里巴巴</span>研究实习生。</p>
+        </div>
+        <ul class="icon-row hero__links">
+          <li><a class="icon-link" href="mailto:songtian.pzh@alibaba-inc.com" title="Email" data-title-zh="邮箱"><svg aria-hidden="true"><use href="#icon-mail"/></svg><span class="sr-only" data-lang-en>Email</span><span class="sr-only" data-lang-zh>邮箱</span></a></li>
+          <li><a class="icon-link" href="https://scholar.google.com/citations?user=tXlKGqQAAAAJ&amp;hl=en" rel="me" title="Google Scholar" aria-label="Google Scholar"><svg aria-hidden="true"><use href="#icon-scholar"/></svg></a></li>
+          <li><a class="icon-link" href="https://github.com/Pan-Zihao" rel="me" title="GitHub" aria-label="GitHub"><svg aria-hidden="true"><use href="#icon-github"/></svg></a></li>
+        </ul>
+      </div>
+      <a class="hero__portrait" href="images/prof_pic.jpg"><img src="images/prof_pic.jpg" width="320" height="320" alt="Zihao Pan" fetchpriority="high"></a>
+    </section>
+
+    <section class="section" id="about" aria-labelledby="about-title">
+      <h2 class="section-label" id="about-title"><span data-lang-en>About</span><span data-lang-zh>简介</span></h2>
+      <div class="bio">
+        <p data-lang-en>I obtained my Bachelor's degree from <a href="https://www.sysu.edu.cn/sysuen/">Sun Yat-sen University</a> in 2026. I am currently a research intern at Alibaba Group, mentored by <a href="https://mengtingchen.github.io/">Mengting Chen</a>. I also work closely with <a href="https://chengshiest.github.io/">Cheng Shi</a> from <a href="https://www.hku.hk/">The University of Hong Kong</a>.</p>
+        <p data-lang-zh>我于 2026 年在<a href="https://www.sysu.edu.cn/">中山大学</a>获得学士学位。目前在阿里巴巴集团实习，导师是 <a href="https://mengtingchen.github.io/">Mengting Chen</a>。我还与<a href="https://www.hku.hk/">香港大学</a>的 <a href="https://chengshiest.github.io/">Cheng Shi</a> 密切合作。</p>
+        <p data-lang-en>My research interests mainly revolve around <strong>generative modeling</strong> and <strong>representation learning</strong>. I am always open to research discussions and collaborations.</p>
+        <p data-lang-zh>我的研究兴趣主要集中在<strong>生成建模</strong>和<strong>表征学习</strong>。欢迎交流与合作。</p>
+      </div>
+    </section>
+
+    <section class="section" id="news" aria-labelledby="news-title">
+      <h2 class="section-label" id="news-title"><span data-lang-en>News</span><span data-lang-zh>动态</span></h2>
+      <ul class="news-list">
+        <li class="news-item">
+          <time datetime="2026-09">2026.09</time>
+          <p data-lang-en><a href="https://arxiv.org/abs/2605.07915">PAE</a> and <a href="https://arxiv.org/abs/2605.06376">CDM</a> were accepted to <strong>NeurIPS 2026</strong>.</p>
+          <p data-lang-zh><a href="https://arxiv.org/abs/2605.07915">PAE</a> 和 <a href="https://arxiv.org/abs/2605.06376">CDM</a> 被 <strong>NeurIPS 2026</strong> 接收。</p>
+        </li>
+        <li class="news-item">
+          <time datetime="2025-12">2025.12</time>
+          <p data-lang-en>Started my internship at Alibaba.</p>
+          <p data-lang-zh>开始在阿里巴巴实习。</p>
+        </li>
+        <li class="news-item">
+          <time datetime="2025-11">2025.11</time>
+          <p data-lang-en>One paper was accepted to <strong>AAAI 2026</strong>.</p>
+          <p data-lang-zh>一篇论文被 <strong>AAAI 2026</strong> 接收。</p>
+        </li>
+      </ul>
+    </section>
+
+    <section class="section" id="publications" aria-labelledby="publications-title">
+      <h2 class="section-label" id="publications-title"><span data-lang-en>Selected Publications</span><span data-lang-zh>代表论文</span></h2>
+      <div class="pub-list">
+        <article class="pub">
+          <a class="pub__thumb" href="https://zhengrongyue.github.io/pae.github.io/"><img src="images/paper_cover/pae_teaser.jpg" width="250" alt="Prior-Aligned Autoencoders teaser" loading="lazy"></a>
+          <div class="pub__content">
+            <h3 class="pub__title" lang="en" translate="no"><a href="https://arxiv.org/abs/2605.07915">What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion</a></h3>
+            <p class="pub__authors" lang="en" translate="no">Zhengrong Yue, Taihang Hu, Mengting Chen, Haiyu Zhang, <strong>Zihao Pan</strong>, Tao Liu, Zikang Wang, Jinsong Lan, Xiaoyong Zhu, Bo Zheng, Yali Wang</p>
+            <div class="pub__meta">
+              <span class="venue venue--published">NeurIPS 2026</span>
+              <div class="pub__links">
+                <a href="https://arxiv.org/abs/2605.07915"><span data-lang-en>Paper</span><span data-lang-zh>论文</span></a>
+                <a href="https://github.com/ZhengrongYue/PAE"><span data-lang-en>Code</span><span data-lang-zh>代码</span></a>
+                <a href="https://huggingface.co/yuezhengrong/PAE-collections"><span data-lang-en>Model</span><span data-lang-zh>模型</span></a>
+                <a href="https://zhengrongyue.github.io/pae.github.io/"><span data-lang-en>Project</span><span data-lang-zh>项目</span></a>
+              </div>
+            </div>
+          </div>
+        </article>
+        <article class="pub">
+          <a class="pub__thumb" href="https://byliutao.github.io/cdm_page/"><img src="images/paper_cover/cdm_teaser.jpg" width="250" alt="Continuous-Time Distribution Matching teaser" loading="lazy"></a>
+          <div class="pub__content">
+            <h3 class="pub__title" lang="en" translate="no"><a href="https://arxiv.org/abs/2605.06376">Continuous-Time Distribution Matching for Few-Step Diffusion Distillation</a></h3>
+            <p class="pub__authors" lang="en" translate="no">Tao Liu, Hao Yan, Mengting Chen, Taihang Hu, Zhengrong Yue, <strong>Zihao Pan</strong>, Jinsong Lan, Xiaoyong Zhu, Ming-Ming Cheng, Bo Zheng, Yaxing Wang</p>
+            <div class="pub__meta">
+              <span class="venue venue--published">NeurIPS 2026</span>
+              <div class="pub__links">
+                <a href="https://arxiv.org/abs/2605.06376"><span data-lang-en>Paper</span><span data-lang-zh>论文</span></a>
+                <a href="https://github.com/byliutao/cdm"><span data-lang-en>Code</span><span data-lang-zh>代码</span></a>
+                <a href="https://huggingface.co/byliutao/stable-diffusion-3-medium-turbo"><span data-lang-en>Model</span><span data-lang-zh>模型</span></a>
+                <a href="https://byliutao.github.io/cdm_page/"><span data-lang-en>Project</span><span data-lang-zh>项目</span></a>
+              </div>
+            </div>
+          </div>
+        </article>
+        <article class="pub">
+          <a class="pub__thumb" href="https://github.com/zhangquanchen/3DThinker"><img src="images/paper_cover/3dthinker_teaser.jpg" width="250" alt="3DThinker teaser" loading="lazy"></a>
+          <div class="pub__content">
+            <h3 class="pub__title" lang="en" translate="no"><a href="https://arxiv.org/abs/2510.18632">Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views</a></h3>
+            <p class="pub__authors" lang="en" translate="no">Zhangquan Chen, Manyuan Zhang, Xinlei Yu, Xufang Luo, Mingze Sun, <strong>Zihao Pan</strong>, Xiang An, Yan Feng, Peng Pei, Xunliang Cai, Ruqi Huang</p>
+            <div class="pub__meta">
+              <span class="venue venue--published">CVPR 2026</span>
+              <div class="pub__links">
+                <a href="https://arxiv.org/abs/2510.18632"><span data-lang-en>Paper</span><span data-lang-zh>论文</span></a>
+                <a href="https://github.com/zhangquanchen/3DThinker"><span data-lang-en>Code</span><span data-lang-zh>代码</span></a>
+              </div>
+            </div>
+          </div>
+        </article>
+        <article class="pub">
+          <a class="pub__thumb" href="https://github.com/clf28/Detail-plus-plus"><img src="images/paper_cover/detailpp_teaser.jpg" width="250" alt="Detail++ teaser" loading="lazy"></a>
+          <div class="pub__content">
+            <h3 class="pub__title" lang="en" translate="no"><a href="https://arxiv.org/abs/2507.17853">Detail++: Training-Free Detail Enhancer for T2I Diffusion Models</a></h3>
+            <p class="pub__authors" lang="en" translate="no">Lifeng Chen, Jiner Wang, <strong>Zihao Pan</strong>, Beier Zhu, Xiaofeng Yang, Chi Zhang</p>
+            <div class="pub__meta">
+              <span class="venue venue--published" title="IEEE Transactions on Image Processing">TIP 2026</span>
+              <div class="pub__links">
+                <a href="https://ieeexplore.ieee.org/document/11551836"><span data-lang-en>Paper</span><span data-lang-zh>论文</span></a>
+                <a href="https://arxiv.org/abs/2507.17853">arXiv</a>
+                <a href="https://github.com/clf28/Detail-plus-plus"><span data-lang-en>Code</span><span data-lang-zh>代码</span></a>
+              </div>
+            </div>
+          </div>
+        </article>
+        <article class="pub">
+          <a class="pub__thumb" href="images/paper_cover/x2edit.jpg"><img src="images/paper_cover/x2edit.jpg" width="250" alt="X2Edit teaser" loading="lazy"></a>
+          <div class="pub__content">
+            <h3 class="pub__title" lang="en" translate="no"><a href="https://arxiv.org/abs/2508.07607">X2Edit: Revisiting Arbitrary-Instruction Image Editing through Self-Constructed Data and Task-Aware Representation Learning</a></h3>
+            <p class="pub__authors" lang="en" translate="no">Jian Ma, Xujie Zhu, <strong>Zihao Pan</strong>, Qirong Peng, Xu Guo, Chen Chen, Haonan Lu</p>
+            <div class="pub__meta">
+              <span class="venue venue--published">AAAI 2026</span>
+              <div class="pub__links">
+                <a href="https://arxiv.org/abs/2508.07607"><span data-lang-en>Paper</span><span data-lang-zh>论文</span></a>
+                <a href="https://huggingface.co/datasets/OPPOer/X2Edit-Dataset"><span data-lang-en>Data</span><span data-lang-zh>数据</span></a>
+                <a href="https://github.com/OPPO-Mente-Lab/X2Edit"><span data-lang-en>Code</span><span data-lang-zh>代码</span></a>
+                <a href="https://huggingface.co/OPPOer/X2Edit"><span data-lang-en>Model</span><span data-lang-zh>模型</span></a>
+              </div>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="section" id="education" aria-labelledby="education-title">
+      <h2 class="section-label" id="education-title"><span data-lang-en>Education</span><span data-lang-zh>教育</span></h2>
+      <ul class="cv-list">
+        <li class="cv-row">
+          <div class="cv-org">
+            <span class="cv-logo"><img src="images/logo/sysu.svg" width="44" height="44" alt="" loading="lazy"></span>
+            <div>
+              <h3 class="cv-title"><a href="https://www.sysu.edu.cn/sysuen/" data-lang-en>Sun Yat-sen University</a><a href="https://www.sysu.edu.cn/" data-lang-zh>中山大学</a></h3>
+              <p class="cv-sub" data-lang-en>B.E. in Software Engineering</p>
+              <p class="cv-sub" data-lang-zh>软件工程 · 学士</p>
+            </div>
+          </div>
+          <p class="cv-date"><time datetime="2022-09">2022.09</time> – <time datetime="2026-06">2026.06</time></p>
+        </li>
+      </ul>
+    </section>
+
+    <section class="section" id="experience" aria-labelledby="experience-title">
+      <h2 class="section-label" id="experience-title"><span data-lang-en>Experience</span><span data-lang-zh>经历</span></h2>
+      <ul class="cv-list">
+        <li class="cv-row">
+          <div class="cv-org">
+            <span class="cv-logo"><img src="images/logo/ali-icon.png" width="44" height="44" alt="" loading="lazy"></span>
+            <div>
+              <h3 class="cv-title"><span data-lang-en>Alibaba</span><span data-lang-zh>阿里巴巴</span></h3>
+              <p class="cv-sub" data-lang-en>Taobao &amp; Tmall Group · Research</p>
+              <p class="cv-sub" data-lang-zh>淘天集团 · 研究</p>
+              <p class="cv-sub" data-lang-en>Video world models and Pixel-space diffusion models</p>
+              <p class="cv-sub" data-lang-zh>视频世界模型和像素空间扩散模型</p>
+            </div>
+          </div>
+          <p class="cv-date"><time datetime="2025-12">2025.12</time> – <span data-lang-en>present</span><span data-lang-zh>至今</span></p>
+        </li>
+        <li class="cv-row">
+          <div class="cv-org">
+            <span class="cv-logo"><img src="images/logo/meituan-icon.png" width="44" height="44" alt="" loading="lazy"></span>
+            <div>
+              <h3 class="cv-title"><span data-lang-en>Meituan</span><span data-lang-zh>美团</span></h3>
+              <p class="cv-sub" data-lang-en>LongCat Team · Research</p>
+              <p class="cv-sub" data-lang-zh>LongCat 团队 · 研究</p>
+              <p class="cv-sub" data-lang-en>Unified multimodal understanding and generation.</p>
+              <p class="cv-sub" data-lang-zh>统一多模态理解与生成。</p>
+            </div>
+          </div>
+          <p class="cv-date"><time datetime="2025-09">2025.09</time> – <time datetime="2025-12">2025.12</time></p>
+        </li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 <span translate="no">Zihao Pan</span></p>
+    <ul class="icon-row">
+      <li><a class="icon-link" href="mailto:songtian.pzh@alibaba-inc.com" title="Email" data-title-zh="邮箱"><svg aria-hidden="true"><use href="#icon-mail"/></svg><span class="sr-only" data-lang-en>Email</span><span class="sr-only" data-lang-zh>邮箱</span></a></li>
+      <li><a class="icon-link" href="https://scholar.google.com/citations?user=tXlKGqQAAAAJ&amp;hl=en" rel="me" title="Google Scholar" aria-label="Google Scholar"><svg aria-hidden="true"><use href="#icon-scholar"/></svg></a></li>
+      <li><a class="icon-link" href="https://github.com/Pan-Zihao" rel="me" title="GitHub" aria-label="GitHub"><svg aria-hidden="true"><use href="#icon-github"/></svg></a></li>
+    </ul>
+  </footer>
+</body>
+</html>
